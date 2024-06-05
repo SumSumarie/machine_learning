@@ -1,0 +1,309 @@
+genre,playlist_name,track_artist,track_name,track_popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+pop,Indie Poptimism,Bea Miller,like that,73,0.573,0.441,6,-5.799,0,0.0758,0.186,0.0,0.61,0.389,61.657,185547
+pop,Indie Poptimism,Anna of the North,Thank Me Later,54,0.755,0.496,2,-7.412,1,0.0787,0.197,0.000194,0.338,0.718,76.528,204240
+pop,Indie Poptimism,Alexx Mack,Your Car,17,0.559,0.642,9,-9.127,1,0.103,0.0251,2.91e-06,0.266,0.203,100.083,226000
+pop,Indie Poptimism,Coasts,Oceans,42,0.52,0.845,9,-4.567,1,0.0467,0.00163,0.0,0.311,0.537,127.709,222768
+pop,Indie Poptimism,Matt Maeson,Hallucinogenics,66,0.549,0.653,0,-7.47,1,0.0503,0.457,0.0,0.0969,0.287,121.348,187173
+pop,Indie Poptimism,Skylar Stecker,Blame,21,0.752,0.739,3,-3.761,0,0.0607,0.185,0.0,0.0982,0.652,104.937,172457
+pop,Indie Poptimism,Hedley,In Love With A Broken Heart,32,0.581,0.749,1,-3.632,0,0.0493,0.0977,3.48e-05,0.111,0.675,100.092,217067
+pop,Indie Poptimism,The Colourist,Wishing Wells,39,0.538,0.925,0,-4.62,1,0.0631,0.00249,4.52e-05,0.11,0.397,135.025,257880
+pop,Indie Poptimism,Dresses,Catch,29,0.818,0.574,10,-7.192,1,0.0476,0.29,0.0,0.0875,0.869,120.027,231121
+pop,Indie Poptimism,Paperwhite,Storm,40,0.638,0.793,10,-6.676,1,0.0393,0.0109,0.0253,0.161,0.523,113.944,195973
+pop,Indie Poptimism,Youngblood Hawke,Blackbeak,40,0.566,0.763,7,-6.146,0,0.0296,0.00119,0.0,0.324,0.577,134.973,239160
+pop,Indie Poptimism,BANNERS,Someone To You,74,0.46,0.928,2,-3.683,1,0.0451,0.00595,0.0,0.24,0.684,75.05,219800
+pop,Indie Poptimism,flor,hold on,57,0.609,0.872,8,-4.72,1,0.0447,0.0483,0.000971,0.119,0.534,111.967,204774
+pop,Indie Poptimism,Young Rising Sons,High,50,0.646,0.85,7,-5.145,1,0.043,0.028,7.21e-05,0.281,0.518,116.999,165720
+pop,Indie Poptimism,Grizfolk,Waking Up The Giants,53,0.588,0.602,11,-8.919,0,0.0322,0.0442,0.00278,0.428,0.239,128.019,234800
+pop,Indie Poptimism,Knox Hamilton,Mission Control,44,0.718,0.618,10,-5.824,1,0.0343,0.065,0.0,0.397,0.511,122.958,199080
+pop,Indie Poptimism,bülow,You & Jennifer,71,0.752,0.698,11,-6.53,1,0.306,0.52,0.0,0.211,0.347,132.058,159453
+pop,Indie Poptimism,Coleman Hell,Love Is Blind,43,0.66,0.779,3,-4.625,1,0.0309,0.00746,0.0,0.193,0.559,128.007,173108
+pop,Indie Poptimism,Jaymes Young,Infinity,69,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,0.494,121.963,237720
+pop,Indie Poptimism,Matt and Kim,Daylight,65,0.57,0.798,9,-4.92,1,0.0323,0.102,0.000128,0.178,0.671,103.303,171333
+pop,Indie Poptimism,Kid Runner,Different Kind of Love,30,0.591,0.868,0,-5.555,1,0.0362,0.00128,0.000586,0.116,0.553,110.018,207427
+pop,Indie Poptimism,Judah & the Lion,Take It All Back 2.0,65,0.441,0.802,0,-6.411,1,0.0305,0.0104,6.25e-05,0.123,0.783,148.023,218356
+pop,Indie Poptimism,The Aces,Volcanic Love,36,0.439,0.819,6,-4.253,1,0.0751,0.0134,0.0,0.2,0.567,179.885,205977
+pop,Indie Poptimism,The Royal Concept,On Our Way,35,0.6,0.828,1,-5.485,1,0.121,0.00448,0.0,0.168,0.356,130.913,194187
+pop,Indie Poptimism,Paperwhite,Count On You,30,0.688,0.707,8,-6.852,1,0.04,0.109,7.8e-05,0.0909,0.578,129.984,224073
+pop,Indie Poptimism,Emily Vaughn,Dead 2 Me,36,0.457,0.612,4,-6.765,0,0.156,0.233,0.0,0.117,0.495,160.097,165000
+pop,Indie Poptimism,MAGIC GIANT,Set On Fire,51,0.229,0.871,6,-4.558,1,0.103,0.0133,2.18e-06,0.266,0.395,86.965,215653
+pop,Indie Poptimism,FRENSHIP,1000 Nights,57,0.594,0.709,6,-9.541,0,0.0377,0.0315,0.0562,0.0738,0.587,90.001,240293
+pop,Indie Poptimism,Magic City Hippies,Limestone,58,0.706,0.457,4,-9.359,1,0.0383,0.282,0.00849,0.0614,0.723,78.014,209165
+pop,Indie Poptimism,Vinyl Theatre,"Me, Myself, and I",46,0.619,0.711,4,-5.211,0,0.0328,0.0149,2.2e-05,0.0968,0.309,90.987,206267
+pop,Indie Poptimism,Coast Modern,Hollow Life,57,0.634,0.743,8,-4.039,1,0.0392,0.00298,1.96e-06,0.0442,0.243,118.937,237880
+pop,Indie Poptimism,Hidinin,Free but Hollow,35,0.507,0.799,6,-4.53,1,0.0377,0.00604,2.52e-05,0.15,0.616,146.038,220542
+pop,Indie Poptimism,Wild Party,Chasin' Honey,54,0.526,0.637,7,-5.052,1,0.0656,0.02,1.25e-06,0.0978,0.765,176.1,189960
+pop,Indie Poptimism,Andrew McMahon in the Wilderness,Fire Escape,53,0.583,0.862,4,-4.387,1,0.0575,0.0468,0.0,0.256,0.422,105.999,204840
+pop,Indie Poptimism,Charlotte Lawrence,Sleep Talking,66,0.661,0.762,5,-4.307,1,0.0402,0.452,0.0,0.162,0.583,101.99,224224
+pop,Indie Poptimism,The Mowgli's,I'm Good,58,0.612,0.921,0,-5.338,1,0.0705,0.0115,0.0,0.166,0.674,96.045,166893
+pop,Indie Poptimism,Grouplove,Tongue Tied,78,0.56,0.936,3,-5.835,1,0.0439,0.00847,0.0,0.161,0.371,112.96,218013
+pop,Indie Poptimism,Broods,Bridges,56,0.389,0.634,4,-6.362,0,0.137,0.017,0.0,0.101,0.27,169.539,191808
+pop,Indie Poptimism,Charlee Remitz,King's Cup,19,0.671,0.794,2,-6.328,0,0.0568,0.101,0.0,0.29,0.533,144.981,191922
+pop,Indie Poptimism,Nightly,Phantom,50,0.58,0.795,4,-5.123,0,0.036,0.00287,0.000202,0.134,0.27,126.013,201735
+pop,Indie Poptimism,WALK THE MOON,One Foot,65,0.582,0.821,0,-4.861,1,0.0365,0.00754,2.1e-06,0.818,0.468,100.025,261373
+pop,Indie Poptimism,Grace Mitchell,NoLo,46,0.537,0.66,8,-7.415,0,0.0341,0.00866,1.41e-05,0.279,0.235,89.935,265973
+pop,Indie Poptimism,Joywave,Tongues,56,0.827,0.682,6,-7.111,0,0.0435,0.00048,0.0187,0.101,0.933,117.967,234773
+pop,Indie Poptimism,Fitz and The Tantrums,Out of My League,67,0.545,0.968,9,-3.553,0,0.0853,0.0387,0.00325,0.331,0.527,169.965,209386
+pop,Indie Poptimism,New Politics,Harlem,57,0.603,0.952,6,-3.699,1,0.0947,0.00189,0.000445,0.317,0.588,133.97,163627
+pop,Indie Poptimism,Sir Sly,High,61,0.743,0.733,2,-5.576,1,0.0352,0.00705,0.00753,0.0565,0.726,122.975,231897
+pop,Indie Poptimism,XYLØ,Pretty Sad,54,0.585,0.619,8,-6.643,1,0.0286,0.0824,2.57e-06,0.0996,0.337,100.045,199222
+pop,Indie Poptimism,Atlas Genius,Stockholm,52,0.568,0.746,7,-5.437,1,0.0462,0.0054,0.0,0.162,0.409,125.04,191640
+pop,Indie Poptimism,Saint Motel,Sweet Talk,63,0.67,0.843,1,-4.311,1,0.0454,0.0392,0.0,0.225,0.713,117.01,192040
+pop,Indie Poptimism,Nightly,Miss You Like Hell,48,0.418,0.922,7,-4.595,1,0.122,0.000567,0.0,0.122,0.238,94.927,189181
+pop,Indie Poptimism,Maty Noyes,New Friends,61,0.675,0.72,1,-4.768,0,0.21,0.033,1.3e-05,0.0311,0.593,168.039,190547
+pop,Indie Poptimism,Emily Vaughn,Say the Word,33,0.604,0.724,5,-4.532,1,0.146,0.0693,0.0,0.07,0.419,180.097,202667
+pop,Indie Poptimism,Secret Weapons,Something New,35,0.548,0.907,11,-5.236,1,0.057,0.0105,0.0,0.274,0.581,96.01,217200
+pop,Indie Poptimism,MOONZz,Navigator,45,0.553,0.842,3,-4.832,1,0.0916,0.252,7.17e-05,0.121,0.415,171.983,210784
+pop,Indie Poptimism,Smallpools,Dreaming,57,0.612,0.89,10,-2.827,0,0.047,0.000478,0.0,0.0672,0.886,118.989,216253
+pop,Indie Poptimism,Castlecomer,Fire Alarm,52,0.513,0.924,9,-4.574,1,0.0503,0.000151,0.0203,0.303,0.52,145.01,237453
+pop,Indie Poptimism,CRUISR,Kidnap Me,47,0.312,0.789,0,-6.29,1,0.0615,0.0251,1.05e-05,0.186,0.82,176.745,202200
+pop,Indie Poptimism,Great Good Fine Ok,Take It or Leave It,46,0.69,0.753,6,-3.83,1,0.0555,0.162,0.0,0.0718,0.931,148.024,183468
+pop,Indie Poptimism,Air Traffic Controller,"Hurry, Hurry",39,0.612,0.913,9,-4.668,1,0.0492,0.0015,0.0,0.117,0.803,120.001,203267
+pop,Indie Poptimism,Hunter Hunted,Ready For You,34,0.567,0.83,0,-5.655,1,0.0281,9.6e-05,0.248,0.394,0.158,93.996,205587
+pop,Indie Poptimism,Valley,A Phone Call In Amsterdam,53,0.523,0.655,1,-7.972,1,0.0349,0.00491,0.0,0.322,0.371,100.0,233333
+pop,Indie Poptimism,Parade of Lights,Feeling Electric,47,0.452,0.824,0,-4.68,1,0.0526,0.000469,0.000644,0.138,0.676,97.083,221618
+pop,Indie Poptimism,Kid Runner,Don't Change Me,27,0.67,0.888,0,-5.368,1,0.0299,0.00901,0.0,0.419,0.652,101.855,191573
+pop,Indie Poptimism,Moon Taxi,Two High,61,0.68,0.735,11,-5.553,0,0.0482,0.0505,0.00132,0.109,0.523,106.994,213120
+pop,Indie Poptimism,NVDES,Brazooka,40,0.543,0.908,1,-8.543,0,0.102,0.00015,0.85,0.0921,0.387,147.901,129730
+pop,Indie Poptimism,Victors,Feel,38,0.548,0.899,3,-4.773,1,0.0458,0.00037,0.000599,0.0854,0.552,118.986,225464
+pop,Indie Poptimism,Saint Motel,Cold Cold Man,65,0.613,0.661,9,-4.984,1,0.0263,0.00652,0.0,0.0976,0.509,110.978,230773
+pop,Indie Poptimism,Vacation Manor,Careless,51,0.554,0.776,2,-4.756,1,0.0411,0.00438,2.58e-06,0.764,0.522,116.076,195240
+pop,Indie Poptimism,The Electric Sons,Golden Age,29,0.586,0.814,7,-6.244,1,0.114,0.178,2.7e-05,0.133,0.646,104.925,228571
+pop,Indie Poptimism,Loote,Back Together,54,0.769,0.569,7,-5.615,1,0.191,0.255,0.0,0.0964,0.485,110.032,183280
+pop,Indie Poptimism,Coast Modern,Guru,63,0.76,0.674,3,-6.425,1,0.0411,0.231,0.0027,0.0728,0.797,140.022,204067
+pop,Indie Poptimism,The Federal Empire,Bad Habits,48,0.309,0.869,2,-3.298,1,0.0771,0.0136,0.0,0.0454,0.454,111.614,257076
+pop,Indie Poptimism,Cash Cash,Finest Hour (feat. Abir),65,0.656,0.729,5,-4.223,0,0.0765,0.0789,0.0,0.133,0.438,95.974,215781
+pop,Indie Poptimism,VHS Collection,Waiting on the Summer,51,0.553,0.811,4,-5.832,1,0.111,0.0449,0.0,0.101,0.629,104.988,254572
+pop,Indie Poptimism,Smallpools,Passenger Side,56,0.585,0.801,11,-5.406,0,0.0995,0.00601,8.2e-05,0.0865,0.283,101.987,221747
+pop,Indie Poptimism,EZI,DaNcing in a RoOm,50,0.717,0.614,9,-5.043,0,0.053,0.0906,9.51e-06,0.115,0.382,112.01,208606
+pop,Indie Poptimism,Mako,Murder,50,0.64,0.646,5,-6.161,0,0.13,0.276,0.0,0.126,0.37,97.864,189185
+pop,Indie Poptimism,Lost My Name,Get Wild,4,0.693,0.734,5,-6.9,0,0.0565,0.00219,1.29e-05,0.163,0.828,131.967,213222
+pop,Indie Poptimism,joan,ease your mind,52,0.692,0.648,6,-5.0,1,0.0374,0.141,0.0,0.061,0.944,107.229,172307
+pop,Indie Poptimism,Passion Pit,Take a Walk,68,0.566,0.755,11,-5.526,1,0.0368,0.0338,0.0,0.315,0.445,101.006,264493
+pop,Indie Poptimism,Foster The People,Sit Next to Me,74,0.638,0.738,6,-4.976,0,0.0292,0.117,0.000384,0.689,0.657,97.021,243147
+pop,Indie Poptimism,HUNNY,Vowels (and the Importance of Being Me),63,0.484,0.875,4,-5.237,1,0.0541,0.00154,9.64e-05,0.169,0.724,150.021,184436
+pop,Indie Poptimism,DREAMERS,Sweet Disaster,61,0.515,0.821,0,-2.333,1,0.0309,0.00794,0.0,0.0787,0.425,86.994,205173
+pop,Indie Poptimism,Lauv,Reforget,62,0.44,0.469,5,-8.338,0,0.112,0.449,0.0,0.169,0.225,169.755,231676
+pop,Indie Poptimism,Cage The Elephant,Trouble,72,0.47,0.623,0,-5.655,1,0.0302,0.392,0.000453,0.0992,0.298,77.861,225973
+pop,Indie Poptimism,Oh Wonder,Drive,66,0.657,0.456,9,-8.351,1,0.0961,0.705,8.84e-06,0.084,0.381,141.735,196466
+pop,Indie Poptimism,BØRNS,Electric Love,75,0.611,0.797,6,-7.627,0,0.0533,0.00543,0.00137,0.26,0.518,120.041,218107
+pop,Indie Poptimism,Cold War Kids,First,67,0.468,0.692,2,-4.015,1,0.0295,0.0202,2.39e-06,0.523,0.561,78.009,200360
+pop,Indie Poptimism,Foster The People,Pumped Up Kicks,83,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,239600
+pop,Indie Poptimism,MGMT,Kids,76,0.451,0.931,9,-3.871,1,0.0719,0.00076,0.0049,0.361,0.172,122.961,302840
+pop,Indie Poptimism,Arctic Monkeys,Fluorescent Adolescent,66,0.646,0.813,6,-5.29,0,0.0288,0.00178,2.26e-05,0.144,0.821,112.115,173493
+pop,Indie Poptimism,M83,Midnight City,71,0.526,0.712,11,-6.525,0,0.0356,0.0161,0.0,0.179,0.32,105.009,241440
+pop,Indie Poptimism,Young the Giant,Silvertongue,66,0.673,0.789,0,-4.288,1,0.0408,0.00975,0.0,0.752,0.841,100.043,197427
+pop,Indie Poptimism,Mt. Joy,Sheep,64,0.498,0.502,2,-8.052,1,0.0371,0.891,0.000907,0.0716,0.286,81.169,215180
+pop,Indie Poptimism,Lewis Del Mar,Painting (Masterpiece),57,0.726,0.861,6,-5.167,1,0.0695,0.277,4.12e-06,0.0534,0.711,91.966,243413
+pop,Indie Poptimism,Eden Project,Times Like These,52,0.262,0.458,4,-7.228,1,0.0368,0.887,3.38e-05,0.356,0.118,145.353,286537
+pop,Indie Poptimism,The Band CAMINO,My Thoughts on You,55,0.541,0.695,2,-7.75,1,0.0456,0.0148,0.000114,0.137,0.318,115.122,211109
+pop,Indie Poptimism,Seafret,Oceans,64,0.372,0.462,9,-9.1,0,0.0317,0.267,9.91e-06,0.101,0.176,129.026,215440
+pop,Indie Poptimism,Jaymes Young,Habits of My Heart - EP Version,66,0.392,0.498,9,-7.63,0,0.117,0.665,0.000118,0.34,0.59,72.048,210639
+pop,Indie Poptimism,Brandyn Burnette,Down,41,0.632,0.494,7,-7.283,0,0.207,0.515,0.0,0.12,0.359,75.216,172852
+pop,Indie Poptimism,Sundara Karma,She Said,47,0.418,0.945,7,-3.757,1,0.0683,0.0003,0.0,0.106,0.693,165.041,224640
+pop,Indie Poptimism,Night Riots,Fangs,38,0.522,0.853,7,-3.727,1,0.0393,0.0062,3.21e-05,0.11,0.464,144.917,215462
+pop,Indie Poptimism,Cold War Kids,Love Is Mystical,61,0.567,0.863,7,-5.158,0,0.037,0.00462,4.77e-05,0.207,0.722,106.03,214360
+pop,Indie Poptimism,Young the Giant,My Body,64,0.488,0.909,10,-6.591,1,0.0929,0.0011,1.02e-05,0.456,0.643,129.774,244400
+pop,Indie Poptimism,Grouplove,Good Morning,53,0.562,0.832,2,-5.26,1,0.0499,0.000938,2.83e-06,0.063,0.685,104.042,219560
+pop,Indie Poptimism,Grouplove,Welcome To Your Life,55,0.511,0.617,10,-5.883,1,0.0313,0.00223,0.0,0.201,0.404,90.951,227800
+pop,Indie Poptimism,MGMT,Electric Feel,77,0.763,0.807,1,-3.714,1,0.035,0.0714,0.28,0.348,0.559,103.038,229640
+pop,Indie Poptimism,Franz Ferdinand,Take Me Out,73,0.278,0.676,9,-8.821,1,0.0371,0.000423,0.000899,0.136,0.494,104.545,237027
+pop,Indie Poptimism,DREAMERS,Painkiller,56,0.398,0.92,2,-3.267,0,0.0491,0.00311,0.000531,0.108,0.226,200.131,202627
+pop,Indie Poptimism,Weezer,Feels Like Summer,57,0.53,0.867,11,-4.989,1,0.0504,0.02,0.000248,0.737,0.74,175.981,195893
+pop,Indie Poptimism,Weezer,Island In The Sun,75,0.654,0.81,4,-6.26,0,0.0288,0.00719,0.00251,0.165,0.661,114.623,200307
+pop,Indie Poptimism,Cage The Elephant,Cold Cold Cold,68,0.549,0.789,5,-6.071,1,0.0313,0.0178,6.68e-05,0.059,0.715,136.125,214387
+pop,Indie Poptimism,The Neighbourhood,Sweater Weather,81,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,240400
+pop,Indie Poptimism,WALK THE MOON,Kamikaze,59,0.575,0.694,1,-5.675,1,0.0709,0.0158,0.0,0.108,0.442,77.539,196533
+pop,Indie Poptimism,The Revivalists,Wish I Knew You,69,0.649,0.718,0,-6.593,0,0.0261,0.143,0.0713,0.124,0.718,101.034,274093
+pop,Indie Poptimism,Wallows,Pleaser,68,0.497,0.914,9,-4.308,1,0.0455,0.126,1.98e-05,0.274,0.385,148.893,187896
+pop,Indie Poptimism,Young the Giant,Something To Believe In,60,0.623,0.886,1,-3.044,1,0.0404,0.0245,0.0,0.247,0.709,92.021,228467
+pop,Indie Poptimism,The Wrecks,Favorite Liar,57,0.64,0.722,9,-3.489,1,0.0351,0.0196,1.27e-05,0.128,0.317,119.916,242307
+pop,Indie Poptimism,Poolside,Can't Stop Your Lovin',63,0.705,0.782,1,-6.284,0,0.0377,0.672,0.00496,0.138,0.963,90.997,237533
+pop,Indie Poptimism,Mike Mains & The Branches,Everything's Gonna Be Alright,35,0.683,0.813,5,-4.729,1,0.0357,0.0427,7.12e-06,0.0945,0.723,109.997,160987
+pop,Indie Poptimism,Mike Mains & The Branches,Endless Summer,32,0.688,0.502,7,-9.477,1,0.0299,0.479,0.000622,0.123,0.618,127.96,217845
+pop,Indie Poptimism,Mike Mains & The Branches,Live Forever,33,0.61,0.732,2,-9.529,1,0.0496,0.176,0.000131,0.124,0.807,153.97,205579
+pop,Indie Poptimism,Adam Jensen,Marijuana Breath,55,0.782,0.468,5,-4.881,1,0.0746,0.36,2.31e-06,0.0699,0.655,124.97,219163
+pop,Indie Poptimism,alt-J,Breezeblocks,73,0.616,0.656,5,-7.298,1,0.0344,0.096,0.000879,0.205,0.286,150.071,227080
+pop,Indie Poptimism,Grace VanderWaal,I Don't Know My Name,63,0.548,0.221,0,-8.383,1,0.0401,0.775,0.0,0.109,0.457,140.649,148840
+pop,Indie Poptimism,Pretty Lights,One Day They'll Know (ODESZA Remix),56,0.465,0.714,11,-6.611,0,0.0317,0.00591,0.624,0.16,0.294,140.026,260571
+pop,Indie Poptimism,Pretty Lights,Lost And Found - ODESZA Remix,36,0.333,0.679,9,-6.09,1,0.415,0.00154,0.157,0.172,0.0531,89.968,276867
+pop,Indie Poptimism,Galantis,No Money,72,0.671,0.916,6,-4.014,0,0.0397,0.0282,0.00762,0.24,0.803,126.01,189127
+pop,Indie Poptimism,Galantis,Runaway (U & I),74,0.506,0.805,1,-4.119,1,0.0469,0.00711,0.00193,0.0856,0.383,126.008,227074
+pop,Indie Poptimism,Vicetone,No Way Out - Radio Edit,1,0.576,0.864,0,-4.287,0,0.0527,0.0832,0.0,0.241,0.425,126.021,206814
+pop,Indie Poptimism,Zara Larsson,Never Forget You,14,0.583,0.732,11,-5.728,0,0.0457,0.00312,9.86e-06,0.269,0.276,145.992,213428
+pop,Indie Poptimism,ZHU,Working For It - Nomero Remix,44,0.708,0.581,6,-9.521,1,0.0557,0.323,0.0206,0.0961,0.329,99.987,202467
+pop,Indie Poptimism,Lindsey Stirling,Crystallize,55,0.44,0.623,0,-8.228,1,0.0316,0.000856,0.0586,0.103,0.0563,140.006,258800
+pop,Indie Poptimism,Lindsey Stirling,Elements,51,0.423,0.746,0,-6.912,1,0.0582,0.0385,1.33e-05,0.21,0.214,139.804,247422
+pop,Indie Poptimism,Hippie Sabotage,Your Soul,3,0.487,0.68,7,-8.497,0,0.0408,0.000599,0.0339,0.144,0.0752,94.46,324807
+pop,Indie Poptimism,Just A Gent,Limelight (feat. R O Z E S),47,0.694,0.739,8,-2.078,1,0.0742,0.517,0.00102,0.128,0.563,119.965,211130
+pop,Indie Poptimism,ROZES,R U Mine (SteLouse Remix),39,0.468,0.931,7,-3.554,0,0.19,0.195,0.00145,0.125,0.153,145.103,231759
+pop,Indie Poptimism,Lost Kings,Phone Down (feat. Emily Warren) - Evan Berg Remix,42,0.531,0.907,0,-2.977,1,0.0478,0.0128,0.0,0.355,0.316,154.861,237575
+pop,Indie Poptimism,Autograf,Metaphysical,40,0.797,0.722,7,-6.846,0,0.0401,0.212,0.06,0.105,0.233,120.036,339000
+pop,Indie Poptimism,Lostboycrow,Stay a Little Longer,18,0.71,0.695,0,-7.008,1,0.0405,0.148,1.35e-06,0.132,0.455,120.007,205470
+pop,Indie Poptimism,Jane XØ,Love Me,39,0.384,0.765,1,-1.826,1,0.0522,0.602,0.000266,0.197,0.429,83.454,211088
+pop,Indie Poptimism,What So Not,High You Are,62,0.69,0.857,10,-5.613,1,0.0405,0.0557,0.11,0.0341,0.409,136.99,213340
+pop,Indie Poptimism,What So Not,Gemini (feat. George Maple),57,0.481,0.687,7,-6.748,0,0.0699,0.238,0.11,0.107,0.188,145.971,270257
+pop,Indie Poptimism,Zeds Dead,Frontlines,58,0.407,0.925,11,-4.155,0,0.0747,0.0113,0.0025,0.192,0.119,151.993,214733
+pop,Indie Poptimism,NGHTMRE,GUD VIBRATIONS,63,0.514,0.924,8,-5.417,1,0.052,0.000208,0.805,0.0684,0.0675,151.994,224211
+pop,Indie Poptimism,Alison Wonderland,Take It To Reality,44,0.591,0.828,5,-4.155,0,0.04,0.00927,0.0,0.328,0.3,154.965,232302
+pop,Indie Poptimism,Louis Futon,Wasted On You,47,0.662,0.848,4,-4.304,0,0.261,0.185,0.00572,0.132,0.575,88.999,224120
+pop,Indie Poptimism,San Holo,Light,68,0.57,0.763,1,-4.137,1,0.0573,0.0857,2.49e-06,0.0932,0.43,150.088,239853
+pop,Indie Poptimism,San Holo,We Rise,63,0.747,0.491,6,-6.043,1,0.0639,0.197,1.77e-05,0.0837,0.827,145.034,266483
+pop,Indie Poptimism,Macklemore & Ryan Lewis,A Wake (feat. Evan Roman),39,0.687,0.736,10,-7.481,1,0.106,0.165,0.00502,0.0711,0.449,101.151,226049
+pop,Indie Poptimism,Swedish House Mafia,Save The World,67,0.507,0.665,0,-7.598,1,0.0474,0.0144,0.0,0.0759,0.4,126.879,213338
+pop,Indie Poptimism,RAC,Hollywood,49,0.945,0.546,8,-6.109,1,0.0519,0.119,0.000519,0.121,0.962,120.004,197467
+pop,Indie Poptimism,Strange Talk,Climbing Walls,0,0.59,0.942,7,-3.595,1,0.0539,0.00227,0.215,0.279,0.834,139.991,224347
+pop,Indie Poptimism,Panama Wedding,Infinite High,0,0.606,0.877,11,-6.725,1,0.0554,0.085,6.07e-06,0.26,0.876,167.848,190280
+pop,Indie Poptimism,Magic Man,Paris,53,0.472,0.881,2,-5.252,1,0.0524,0.0876,0.0,0.0698,0.502,178.858,232747
+pop,Indie Poptimism,Pacific Air,Roses,25,0.693,0.675,2,-5.855,1,0.0281,0.00933,0.000968,0.33,0.613,110.031,237800
+pop,Indie Poptimism,Pacific Air,Play Nice,19,0.608,0.725,8,-7.291,1,0.0279,0.0233,0.0474,0.0812,0.411,109.011,245053
+pop,Indie Poptimism,Pacific Air,Lose My Mind,26,0.706,0.735,0,-5.382,1,0.0306,0.00336,0.132,0.0632,0.628,116.998,186080
+pop,Indie Poptimism,Flux Pavilion,Emotional,55,0.493,0.865,11,-4.672,0,0.0609,0.00272,0.276,0.107,0.43,150.003,235276
+pop,Indie Poptimism,Manila Killa,Youth (Qrion Remix) [feat. Satica],9,0.617,0.723,7,-2.394,0,0.0342,0.149,1.29e-06,0.133,0.236,95.0,266790
+pop,Indie Poptimism,Danrell,Visions,37,0.655,0.795,7,-3.225,0,0.149,0.233,0.0018,0.149,0.266,180.056,235333
+pop,Indie Poptimism,Zeds Dead,Stardust,44,0.659,0.729,3,-5.839,0,0.0498,0.146,0.000851,0.0898,0.254,121.989,258827
+pop,Indie Poptimism,Flo Rida,Wild Ones (feat. Sia),76,0.608,0.86,5,-5.324,0,0.0554,0.0991,0.0,0.262,0.437,127.075,232947
+pop,Indie Poptimism,Snakehips,All My Friends (feat. Tinashe & Chance the Rapper),74,0.689,0.521,0,-5.845,1,0.132,0.119,8.41e-05,0.108,0.178,95.055,229747
+pop,Indie Poptimism,Mako,Real Life - Ossian Remix,16,0.67,0.825,5,-5.419,1,0.0306,0.0524,0.00364,0.105,0.611,99.99,236379
+pop,Indie Poptimism,Zedd,Clarity,74,0.509,0.781,8,-3.48,1,0.072,0.0398,0.0,0.0749,0.176,128.0,271427
+pop,Indie Poptimism,Zedd,Spectrum,62,0.609,0.801,0,-4.417,0,0.034,0.0137,0.00349,0.127,0.407,129.99,243413
+pop,Indie Poptimism,OneRepublic,Good Life,70,0.634,0.69,6,-7.804,1,0.052,0.0771,0.0,0.132,0.645,94.988,253307
+pop,Indie Poptimism,Calvin Harris,Together,49,0.731,0.869,11,-2.634,0,0.0409,0.145,0.000185,0.116,0.789,127.971,218440
+pop,Indie Poptimism,B.o.B,Chandelier (feat. Lauriana Mae),40,0.701,0.75,1,-4.622,0,0.0456,0.011,0.000199,0.125,0.568,113.473,240080
+pop,Indie Poptimism,Bohdi,Head in the Clouds,27,0.77,0.621,0,-9.559,1,0.0495,0.618,4.77e-06,0.0952,0.899,95.051,163973
+pop,Indie Poptimism,Sigala,Only One - Brookes Brothers Remix,50,0.55,0.763,7,-6.338,1,0.0437,0.000486,0.0438,0.56,0.373,173.889,237187
+pop,Indie Poptimism,Miami Horror,Real Slow,26,0.618,0.841,11,-5.108,0,0.0271,0.107,0.0165,0.242,0.356,106.997,286733
+pop,Indie Poptimism,Calvin Harris,Slide (feat. Frank Ocean & Migos),74,0.736,0.795,1,-3.299,0,0.0545,0.498,1.21e-06,0.254,0.511,104.066,230813
+pop,Indie Poptimism,Lostboycrow,The Lost Boy (feat. Skizzy Mars),23,0.721,0.567,0,-6.733,1,0.0412,0.378,0.0,0.349,0.23,143.995,242609
+pop,Indie Poptimism,Win and Woo,Recognize (feat. Ashe),37,0.628,0.681,9,-4.875,0,0.0545,0.00305,6.52e-06,0.675,0.35,104.997,197900
+pop,Indie Poptimism,Chelsea Cutler,Wake Up - Sondr Remix,23,0.697,0.794,2,-5.005,1,0.0761,0.0724,0.0,0.0353,0.379,96.989,186881
+pop,Indie Poptimism,The Fray,You Found Me,74,0.338,0.803,8,-5.412,0,0.0413,0.0187,0.0,0.136,0.4,151.994,241853
+pop,Indie Poptimism,Whethan,Good Nights (feat. Mascolo),53,0.849,0.483,6,-7.114,0,0.291,0.443,0.000141,0.0786,0.282,101.015,165618
+pop,Indie Poptimism,Alina Baraz,Electric (feat. Khalid),5,0.637,0.359,10,-9.841,0,0.0325,0.593,5.39e-05,0.108,0.142,111.049,245294
+pop,Indie Poptimism,A R I Z O N A,Where I Wanna Be,54,0.68,0.798,3,-4.978,1,0.116,0.0929,0.0,0.0746,0.594,116.989,186800
+pop,Indie Poptimism,Matt and Kim,Cameras,45,0.549,0.882,7,-4.911,1,0.0505,0.0825,0.0,0.372,0.645,169.994,212560
+pop,Indie Poptimism,Matt and Kim,Overexposed,32,0.619,0.835,0,-6.192,1,0.04,0.00101,1.08e-06,0.318,0.37,100.5,166467
+pop,Indie Poptimism,Lostboycrow,Thursday,10,0.655,0.715,7,-5.504,1,0.183,0.145,0.0,0.357,0.609,100.055,185045
+pop,Indie Poptimism,The Spacies,Slow Mo - Felix Palmqvist Remix,0,0.513,0.799,4,-3.299,1,0.037,0.387,0.0,0.109,0.348,142.004,202000
+pop,Indie Poptimism,Griffin Stoller,The Things You Do,40,0.684,0.631,0,-6.746,0,0.0378,0.306,4.97e-05,0.103,0.528,91.958,172174
+pop,Indie Poptimism,French Montana,Unforgettable,14,0.726,0.769,6,-5.043,1,0.123,0.0293,0.0101,0.104,0.733,97.985,233833
+pop,Indie Poptimism,MisterWives,Coloring Outside The Lines,54,0.655,0.823,0,-4.28,1,0.0546,0.0196,9.14e-05,0.546,0.622,111.007,231307
+pop,Indie Poptimism,GRiZ,Gotta Push On,45,0.554,0.528,9,-6.912,1,0.0501,0.00664,0.0817,0.211,0.44,149.86,273918
+pop,Indie Poptimism,GRiZ,Wicked,42,0.474,0.749,10,-5.113,0,0.0363,0.00645,7.41e-05,0.0642,0.1,121.969,354286
+pop,Indie Poptimism,The Knocks,Purple Eyes (feat. Phoebe Ryan),35,0.603,0.725,11,-6.277,0,0.047,0.0571,0.103,0.216,0.502,104.945,183467
+pop,Indie Poptimism,GRiZ,Get Down,38,0.708,0.887,1,-5.751,0,0.0837,0.00167,0.291,0.129,0.811,110.046,334563
+pop,Indie Poptimism,Manila Killa,I'm OK (feat. Shaylen),43,0.665,0.595,1,-7.036,0,0.0518,0.227,0.0,0.217,0.593,96.971,204076
+pop,Indie Poptimism,Hayley Kiyoko,Palace - Justin Caruso Remix,32,0.54,0.916,0,-2.458,1,0.0418,0.0221,4.66e-05,0.18,0.718,94.044,245106
+pop,Indie Poptimism,Far East Movement,The Coast (feat. Jvzel),40,0.543,0.78,7,-5.726,1,0.102,0.0124,5.12e-06,0.171,0.67,84.012,213500
+pop,Indie Poptimism,ayokay,Awake,43,0.422,0.644,11,-7.222,1,0.0354,0.253,0.00243,0.0823,0.145,92.973,226813
+pop,Indie Poptimism,Dropout,Strong,30,0.571,0.778,1,-3.721,0,0.124,0.37,9.81e-06,0.143,0.443,119.972,239000
+pop,Indie Poptimism,Penguin Prison,Show Me The Way,43,0.772,0.687,2,-6.451,1,0.0438,0.122,0.00613,0.14,0.843,120.018,226907
+pop,Indie Poptimism,Jamie xx,Loud Places (feat. Romy),57,0.646,0.625,8,-10.75,0,0.0422,0.00432,0.291,0.119,0.186,109.019,283067
+pop,Indie Poptimism,ZHU,Faded - ODESZA Remix,54,0.746,0.67,0,-5.072,1,0.0594,0.0408,0.194,0.133,0.629,125.016,238640
+pop,Indie Poptimism,Felix Cartal,Get What You Give,0,0.619,0.767,1,-5.926,1,0.0358,0.0155,0.0,0.12,0.247,121.04,219174
+pop,Indie Poptimism,Major Lazer,Get Free,2,0.612,0.657,11,-6.971,0,0.0454,0.103,0.124,0.131,0.767,87.94,289973
+pop,Indie Poptimism,Smallpools,Passenger Side - Grizfolk Remix,22,0.588,0.829,2,-5.839,1,0.058,0.113,1.32e-05,0.0821,0.473,102.016,218824
+pop,Indie Poptimism,NVDES,Do Ya?,17,0.642,0.758,3,-6.572,0,0.141,0.134,0.00762,0.272,0.344,125.965,216257
+pop,Indie Poptimism,Passion Pit,Swimming In The Flood,43,0.553,0.763,0,-5.026,1,0.0299,0.00375,0.000939,0.676,0.457,98.022,297613
+pop,Indie Poptimism,The Temper Trap,Sweet Disposition,64,0.531,0.821,2,-6.812,1,0.0439,0.0701,0.171,0.124,0.34,129.139,230800
+pop,Indie Poptimism,Digitalism,Wolves,41,0.607,0.763,6,-4.618,0,0.0371,0.00826,0.0,0.218,0.632,128.957,190777
+pop,Indie Poptimism,Adventure Club,Gold (feat. Yuna),1,0.479,0.675,9,-4.893,0,0.0413,0.0319,0.00536,0.128,0.189,145.022,257045
+pop,Indie Poptimism,RAC,Fever,31,0.485,0.659,5,-5.83,1,0.0293,0.148,0.00295,0.171,0.121,85.996,313000
+pop,Indie Poptimism,Elephante,Closer - Speaker of the House Remix,0,0.696,0.784,11,-7.2,0,0.071,0.216,0.00108,0.417,0.276,111.985,245357
+pop,Indie Poptimism,Griffin Stoller,Vibes,42,0.619,0.761,1,-6.37,0,0.224,0.369,6.04e-06,0.0808,0.314,150.844,171656
+pop,Indie Poptimism,Gigamesh,Everybody's Gotta Live,0,0.624,0.761,11,-5.867,1,0.0345,0.692,0.000938,0.0942,0.637,91.5,216393
+pop,Indie Poptimism,Smallpools,Million Bucks - Violet Days Remix,26,0.636,0.608,1,-6.732,0,0.0592,0.0072,1.16e-06,0.108,0.487,100.048,209287
+pop,Indie Poptimism,Chet Porter,tbh ily (Kidswaste Remix),0,0.653,0.684,10,-9.703,1,0.0432,0.496,0.794,0.366,0.354,105.049,269973
+pop,Indie Poptimism,CAZZETTE,Handful Of Gold,32,0.643,0.639,1,-6.433,1,0.0264,0.0477,0.00606,0.15,0.166,100.038,206735
+pop,Indie Poptimism,Smallpools,Mother - 8 Mix,47,0.576,0.75,4,-6.948,1,0.0275,0.00665,0.000441,0.0661,0.659,95.018,237474
+pop,Indie Poptimism,Max Frost,$Dreams,43,0.8,0.626,7,-6.043,1,0.0482,0.0194,0.00416,0.103,0.792,106.974,214080
+pop,Indie Poptimism,lovelytheband,emotion,35,0.673,0.774,9,-6.708,0,0.0417,0.00828,0.00648,0.0649,0.662,133.023,219474
+pop,Indie Poptimism,Bayonne,I Know,0,0.706,0.687,0,-8.84,1,0.0327,0.826,0.901,0.177,0.724,137.003,264061
+pop,Indie Poptimism,Vacation Manor,Magic,0,0.565,0.772,7,-5.626,1,0.0312,0.111,0.000101,0.155,0.509,126.993,279560
+pop,Indie Poptimism,Apollo LTD,One In A Million,0,0.612,0.822,11,-4.968,0,0.034,0.000353,7.06e-05,0.0914,0.858,130.054,214990
+pop,Indie Poptimism,Fickle Friends,Sugar,0,0.681,0.743,11,-5.294,1,0.0312,0.00249,5.13e-05,0.303,0.679,114.987,173906
+pop,Indie Poptimism,Fickle Friends,Glue,0,0.678,0.807,6,-4.063,1,0.0698,0.243,0.0,0.15,0.632,115.993,187857
+pop,Indie Poptimism,Roy English,Outa My Head 01101110,24,0.656,0.731,0,-6.104,0,0.0672,0.00642,0.0,0.116,0.265,101.03,215150
+pop,Indie Poptimism,KYOTI,Avalon,8,0.637,0.858,11,-5.513,0,0.0795,0.378,0.00204,0.242,0.787,149.938,235172
+pop,Indie Poptimism,Miami Horror,Love Like Mine,0,0.663,0.938,7,-2.175,1,0.0539,0.0604,0.000144,0.0442,0.793,117.985,250653
+pop,Indie Poptimism,Atlas Genius,When It Was Now,25,0.662,0.917,9,-4.308,0,0.0403,0.00811,0.0,0.0704,0.846,141.952,209707
+pop,Indie Poptimism,Clubfeet,My Shadow,0,0.613,0.742,11,-6.102,1,0.0319,0.0359,0.00819,0.118,0.851,137.013,199217
+pop,Indie Poptimism,Ralph,Tease,35,0.68,0.804,7,-5.076,1,0.0288,0.155,0.00331,0.275,0.623,130.073,211233
+pop,Indie Poptimism,Ralph,Something More,34,0.645,0.684,11,-5.084,0,0.0302,0.0151,5.46e-06,0.104,0.581,94.014,201250
+pop,Indie Poptimism,joan,love somebody like you,58,0.577,0.854,7,-3.754,1,0.0473,0.0596,2.69e-05,0.205,0.336,94.999,227631
+pop,Indie Poptimism,Goldroom,Breaks,0,0.573,0.733,4,-5.799,0,0.0269,0.0106,0.00069,0.121,0.304,107.975,229827
+pop,Indie Poptimism,Apollo LTD,Supernatural,0,0.619,0.94,2,-5.359,1,0.0637,0.00107,2.85e-05,0.0805,0.743,119.994,213400
+pop,Indie Poptimism,The Knocks,Ride Or Die (feat. Foster The People),62,0.648,0.75,0,-3.248,1,0.0335,0.0609,4.41e-06,0.104,0.556,105.03,242035
+pop,Indie Poptimism,The Aces,Stuck,36,0.721,0.746,6,-4.247,0,0.0317,0.0114,0.0952,0.0844,0.705,124.968,206467
+pop,Indie Poptimism,Crush Club,Get Me Off,12,0.821,0.885,5,-4.867,1,0.0527,0.0014,0.00031,0.19,0.87,109.998,240000
+pop,Indie Poptimism,Sam Padrul,Got My Love (feat. Lyon Hart),35,0.695,0.809,1,-5.141,1,0.0413,0.0645,0.0,0.0531,0.434,119.971,243841
+pop,Indie Poptimism,Great Good Fine Ok,Touch,30,0.701,0.7,8,-6.634,1,0.0766,0.36,2.87e-05,0.165,0.432,99.954,218670
+pop,Indie Poptimism,joan,take me on,9,0.592,0.693,7,-4.934,0,0.0395,0.397,2.87e-05,0.242,0.255,120.076,210840
+pop,Indie Poptimism,Vacation Manor,Fading,3,0.496,0.79,9,-5.162,1,0.0412,0.000448,1.01e-05,0.316,0.58,152.102,202581
+pop,Indie Poptimism,The Black Keys,Howlin' For You,59,0.708,0.737,11,-6.665,0,0.0943,0.0299,0.0804,0.101,0.476,132.612,191800
+pop,Indie Poptimism,The Knocks,Goodbyes (feat. Method Man),40,0.701,0.766,10,-4.829,0,0.161,0.00989,0.000611,0.346,0.308,106.99,201006
+pop,Indie Poptimism,Ralph,Weather,31,0.781,0.578,8,-6.928,0,0.0397,0.118,0.0,0.129,0.517,113.978,201551
+pop,Indie Poptimism,Apollo LTD,Man That I Used To Know,0,0.642,0.887,0,-4.985,1,0.0418,0.000404,0.00153,0.111,0.536,120.023,224440
+pop,Indie Poptimism,LANY,Thru These Tears,8,0.711,0.517,11,-7.695,1,0.0391,0.154,0.0,0.149,0.294,119.945,204516
+pop,Indie Poptimism,Great Good Fine Ok,Easy,32,0.847,0.703,6,-4.434,1,0.0746,0.355,3.95e-05,0.0938,0.777,112.045,184141
+pop,Indie Poptimism,kwassa,Dive In,0,0.708,0.78,8,-8.377,1,0.0585,0.248,0.0101,0.107,0.619,104.973,200637
+pop,Indie Poptimism,Glades,Skylines,16,0.628,0.84,11,-5.336,1,0.0418,0.00883,3.53e-05,0.14,0.455,95.013,206773
+pop,Indie Poptimism,Fickle Friends,Broken Sleep,28,0.664,0.859,1,-5.483,0,0.0331,0.0344,0.0,0.1,0.829,119.994,171965
+pop,Indie Poptimism,POWERS,Beat Of My Drum,51,0.777,0.898,6,-2.483,0,0.0656,0.0661,4.09e-06,0.0926,0.928,120.027,206280
+pop,Indie Poptimism,The Colourist,We Won't Go Home,29,0.52,0.926,6,-4.389,0,0.0381,0.00294,0.00248,0.245,0.721,139.963,192320
+pop,Indie Poptimism,XY&O,Sky,18,0.723,0.817,9,-5.847,0,0.0467,0.114,0.00801,0.0941,0.84,100.03,214476
+pop,Indie Poptimism,Lost Kings,Don't Call,49,0.703,0.574,5,-6.776,0,0.0681,0.0152,4.62e-06,0.038,0.784,103.962,196418
+pop,Indie Poptimism,Captain Cuts,Love Like We Used To,42,0.701,0.837,1,-5.231,0,0.0558,0.021,0.0,0.927,0.344,102.019,227057
+pop,Indie Poptimism,Foreign Air,Echo,45,0.619,0.805,7,-6.643,1,0.034,0.0223,0.000586,0.0838,0.45,101.989,220747
+pop,Indie Poptimism,No Rome,Narcissist (feat. The 1975),68,0.543,0.682,3,-5.81,1,0.112,0.219,1.53e-06,0.085,0.424,179.972,195502
+pop,Indie Poptimism,Shura,Make It Up,44,0.675,0.745,11,-8.634,0,0.0344,0.187,0.00894,0.115,0.569,120.97,211393
+pop,Indie Poptimism,Friendly Fires,Love Like Waves,46,0.647,0.86,11,-5.765,1,0.0433,0.0133,0.00016,0.136,0.785,117.97,270507
+pop,Indie Poptimism,Gorgon City,Night Drive,43,0.689,0.692,9,-8.263,0,0.0343,0.233,0.00662,0.114,0.24,119.998,280307
+pop,Indie Poptimism,Jai Wolf,Lose My Mind (feat. Mr Gabriel),30,0.606,0.775,0,-6.038,0,0.04,0.0086,0.498,0.305,0.508,140.013,258547
+pop,Indie Poptimism,Atlas Genius,Can't Be Alone Tonight,46,0.559,0.833,6,-4.332,1,0.0895,0.044,0.0,0.349,0.443,99.991,237027
+pop,Indie Poptimism,morgxn,home ft. WALK THE MOON,56,0.665,0.709,11,-3.643,1,0.037,0.0371,0.0,0.323,0.841,100.001,205049
+pop,Indie Poptimism,Skogsrå,Primadonna,34,0.577,0.879,3,-4.889,1,0.0463,0.561,0.869,0.0883,0.769,98.094,278571
+pop,Indie Poptimism,!!!,Even When The Water's Cold,52,0.709,0.831,2,-6.847,0,0.0391,0.108,0.00128,0.159,0.866,104.971,227067
+pop,Indie Poptimism,Zac Samuel,Takes A Little Time,38,0.681,0.783,7,-5.986,1,0.034,0.132,0.0112,0.156,0.756,117.985,203539
+pop,Indie Poptimism,Betty Who,I Remember,37,0.779,0.739,0,-6.567,1,0.12,0.259,0.00015,0.125,0.511,119.968,215634
+pop,Indie Poptimism,Hotel Apache,Wasted Thunder,26,0.763,0.925,10,-3.073,0,0.104,0.0123,1.77e-06,0.0857,0.876,111.979,165000
+pop,Indie Poptimism,LANY,Thick And Thin,5,0.686,0.564,5,-6.063,0,0.03,0.0599,0.0,0.0914,0.266,99.968,212429
+pop,Indie Poptimism,EMBRZ,Like It Or Not (feat. joan) (feat. joan),36,0.636,0.648,8,-8.1,1,0.0363,0.0882,9.92e-05,0.0876,0.349,92.949,189355
+pop,Indie Poptimism,joan,drive all night,50,0.542,0.758,9,-5.032,1,0.0313,0.000184,5.63e-06,0.144,0.43,156.128,178480
+pop,Indie Poptimism,Manila Killa,Atypical,35,0.751,0.775,11,-3.869,0,0.0777,0.174,4.24e-05,0.143,0.373,115.99,178865
+pop,Indie Poptimism,Robotaki,Meant To Be,24,0.668,0.653,0,-6.361,1,0.0972,0.0123,0.00323,0.269,0.49,119.926,219735
+pop,Indie Poptimism,Lauv,Chasing Fire,62,0.709,0.562,5,-4.864,1,0.0724,0.0449,0.0,0.217,0.386,125.965,205267
+pop,Indie Poptimism,Annie Lux,Hurry Up,33,0.757,0.587,2,-7.832,1,0.0685,0.604,3.04e-05,0.0935,0.657,119.695,180886
+pop,Indie Poptimism,flor,get behind this,46,0.459,0.88,1,-6.932,1,0.0589,0.000425,3.05e-05,0.108,0.414,154.043,204935
+pop,Indie Poptimism,LANY,If You See Her,63,0.635,0.679,1,-7.374,1,0.0861,0.0375,0.0,0.0954,0.239,117.867,182901
+pop,Indie Poptimism,LANY,Good Girls,62,0.708,0.687,1,-7.084,1,0.038,0.0022,0.145,0.133,0.439,117.976,249379
+pop,Indie Poptimism,Apollo LTD,Gold,0,0.527,0.74,0,-6.336,1,0.0636,0.0165,2.26e-06,0.121,0.572,76.531,203080
+pop,Indie Poptimism,Glades,Her (Loving You),35,0.403,0.86,6,-4.252,1,0.0649,0.0542,0.000349,0.13,0.311,176.0,215353
+pop,Indie Poptimism,Pelicandy,Silent Treatment,9,0.63,0.656,0,-7.963,1,0.044,0.109,0.000123,0.258,0.61,80.004,239500
+pop,Indie Poptimism,The Peach Fuzz,The Outside Looking In,41,0.441,0.88,4,-5.848,0,0.0439,5.57e-05,0.000432,0.382,0.627,152.775,194731
+pop,Indie Poptimism,Havelock,Pig Latin,33,0.768,0.406,4,-8.578,0,0.0747,0.49,6.68e-06,0.105,0.513,87.984,186642
+pop,Indie Poptimism,Faye Webster,Right Side of My Neck,27,0.716,0.516,1,-9.072,1,0.0261,0.00107,0.000331,0.331,0.322,117.051,153320
+pop,Indie Poptimism,Georgia,About Work The Dancefloor - Edit,24,0.633,0.832,10,-6.572,0,0.0387,0.0134,0.000164,0.116,0.198,109.983,194119
+pop,Indie Poptimism,Liimo,Get Weird,20,0.633,0.844,0,-3.933,1,0.0848,0.0684,0.0,0.191,0.755,149.893,187350
+pop,Indie Poptimism,Pelicandy,White Sky,14,0.702,0.626,6,-7.796,0,0.0635,0.0178,0.0305,0.15,0.863,94.028,198856
+pop,Indie Poptimism,Pelicandy,Animals,10,0.651,0.796,4,-6.127,0,0.0308,0.000924,0.0465,0.141,0.401,136.926,221000
+pop,Indie Poptimism,Ralph,Gimme,36,0.841,0.468,2,-8.186,1,0.116,0.271,0.0,0.0577,0.847,107.992,168692
+pop,Indie Poptimism,The Aces,Lovin' is Bible,28,0.68,0.871,1,-4.691,1,0.0682,0.139,0.0,0.0925,0.834,114.052,200363
+pop,Indie Poptimism,joan,stop and stare,47,0.58,0.746,10,-5.704,1,0.04,0.00948,6.76e-05,0.11,0.548,97.008,201953
+pop,Indie Poptimism,Roosevelt,Last to Know,21,0.608,0.883,11,-4.845,0,0.0315,0.0619,0.0692,0.152,0.611,129.987,237546
+pop,Indie Poptimism,Sam Padrul,Lighthouse,26,0.684,0.868,9,-3.346,0,0.0315,0.173,0.000539,0.0695,0.745,119.986,261939
+pop,Indie Poptimism,The 1975,It's Not Living (If It's Not With You),8,0.618,0.837,1,-5.338,1,0.0304,0.000254,0.000378,0.0618,0.526,121.227,248336
+pop,Indie Poptimism,Fickle Friends,Bite,34,0.691,0.875,6,-4.573,0,0.035,0.0275,7.68e-05,0.0891,0.821,123.998,208267
+pop,Indie Poptimism,PREP,Line by Line,56,0.827,0.491,11,-7.305,0,0.1,0.0579,8.68e-05,0.292,0.647,93.019,237787
+pop,Indie Poptimism,PREP,Cheapest Flight,59,0.676,0.654,5,-5.229,0,0.0373,0.292,1.08e-05,0.137,0.563,80.003,268461
+pop,Indie Poptimism,PREP,Don't Look Back,47,0.736,0.421,0,-9.469,0,0.05,0.396,0.00262,0.0875,0.496,75.013,271800
+pop,Indie Poptimism,The 1975,The Sound,65,0.648,0.936,0,-4.745,1,0.0762,0.085,6.93e-06,0.482,0.566,120.708,248880
+pop,Indie Poptimism,Foster The People,Imagination,73,0.744,0.642,2,-4.6,0,0.031,0.115,3.95e-05,0.279,0.63,94.988,256267
+pop,Indie Poptimism,Dayglow,Can I Call You Tonight?,25,0.641,0.842,9,-7.27,1,0.0292,0.132,0.91,0.419,0.5,129.98,278769
+pop,Indie Poptimism,Foley,Can't Help the Way,40,0.745,0.632,11,-4.699,0,0.3,0.427,0.0,0.111,0.808,101.977,189858
+pop,Indie Poptimism,Bad Actor,Strangers,33,0.682,0.79,0,-4.058,1,0.0313,0.0533,3.87e-06,0.251,0.222,123.049,176675
+pop,Indie Poptimism,Years & Years,Karma,55,0.79,0.506,7,-7.052,1,0.118,0.146,0.0,0.0876,0.456,105.018,193880
+pop,Indie Poptimism,Fickle Friends,Lovesick,35,0.768,0.814,4,-4.288,1,0.0572,0.0289,0.0,0.0654,0.876,124.042,197600
+pop,Indie Poptimism,Fickle Friends,Hello Hello,40,0.63,0.889,8,-3.863,1,0.0441,0.0883,0.0,0.107,0.693,132.033,178053
+pop,Indie Poptimism,CHVRCHES,Forever,38,0.434,0.768,5,-3.992,1,0.0364,0.000631,0.0,0.276,0.305,151.993,224459
+pop,Indie Poptimism,No Rome,Do It Again,46,0.671,0.388,8,-8.302,1,0.0632,0.041,0.000302,0.108,0.634,158.687,173748
+pop,Indie Poptimism,Sky Ferreira,Everything Is Embarrassing,49,0.667,0.783,0,-5.885,1,0.0361,0.0606,1.17e-06,0.0418,0.564,117.145,250120

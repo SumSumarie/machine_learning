@@ -1,0 +1,9 @@
+genre,playlist_name,track_artist,track_name,track_popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+pop,Dance Pop,The Chainsmokers,Call You Mine,39,0.591,0.702,7,-5.59,1,0.0289,0.225,0.0,0.414,0.501,104.003,217653
+pop,Dance Pop,The Chainsmokers,Takeaway (feat. Lennon Stella),67,0.294,0.505,3,-8.106,1,0.042,0.12,0.0,0.0977,0.357,85.332,209893
+pop,Dance Pop,The Chainsmokers,Closer (feat. Halsey),85,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,244960
+pop,Dance Pop,The Chainsmokers,Something Just Like This,83,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,247160
+pop,Dance Pop,The Chainsmokers,Roses,73,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,226739
+pop,Dance Pop,The Chainsmokers,Somebody,13,0.532,0.616,10,-7.074,0,0.0328,0.186,0.0,0.0928,0.292,101.883,223147
+pop,Dance Pop,The Chainsmokers,Something Just Like This - Alesso Remix,56,0.672,0.73,2,-5.99,1,0.0472,0.24,0.000417,0.122,0.568,120.008,252933
+pop,Dance Pop,The Chainsmokers,Don't Let Me Down - Illenium Remix,64,0.428,0.656,11,-3.712,1,0.075,0.0751,0.181,0.15,0.355,79.648,218933
