@@ -1,0 +1,5 @@
+genre,playlist_name,track_artist,track_name,track_popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+pop,Pop Remix,Ed Sheeran,I Don't Care (with Justin Bieber) - Loud Luxury Remix,66,0.748,0.916,6,-2.634,1,0.0583,0.102,0.0,0.0653,0.518,122.036,194754
+pop,Pop Remix,Ed Sheeran,Beautiful People (feat. Khalid) - Jack Wins Remix,67,0.675,0.919,8,-5.385,1,0.127,0.0799,0.0,0.143,0.585,124.982,163049
+pop,Pop Remix,Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock) - M-22 Remix,58,0.679,0.923,6,-6.5,1,0.181,0.146,4.92e-06,0.124,0.752,121.984,207894
+pop,Pop Remix,Ed Sheeran,South of the Border (feat. Camila Cabello & Cardi B) - Andy Jarvis Remix,66,0.805,0.835,0,-4.603,1,0.0896,0.13,5.03e-06,0.365,0.722,125.028,188230
