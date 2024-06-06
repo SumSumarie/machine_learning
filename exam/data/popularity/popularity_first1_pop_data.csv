@@ -1,9 +1,0 @@
-genre,playlist_name,track_artist,track_name,track_popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
-pop,Deep-deep Bubble Pop,Bridgit Mendler,Atlantis (feat. Kaiydo),1,0.697,0.592,7,-8.476,0,0.174,0.104,3.54e-05,0.421,0.37,144.124,229966
-pop,Deep-deep Bubble Pop,EDEN,drugs,1,0.461,0.448,4,-6.955,0,0.0562,0.607,0.0,0.288,0.222,144.212,338333
-pop,Deep-deep Bubble Pop,James Hersey,Miss You,1,0.871,0.595,5,-7.618,0,0.0552,0.0929,0.00422,0.107,0.623,120.011,206099
-pop,Deep-deep Bubble Pop,BANKS,Gemini Feed,1,0.768,0.649,11,-6.29,0,0.0845,0.188,0.000615,0.14,0.522,102.006,186333
-pop,Deep-deep Bubble Pop,Natali Felicia,Easy Ride,1,0.598,0.432,6,-8.619,1,0.0281,0.172,0.00035,0.106,0.254,122.006,251280
-pop,Deep-deep Bubble Pop,BANKS,Lovesick,1,0.485,0.463,7,-11.059,0,0.0524,0.549,0.00106,0.116,0.383,98.047,200733
-pop,Deep-deep Bubble Pop,BANKS,Fuck With Myself,1,0.847,0.373,8,-11.137,1,0.0476,0.0373,0.0228,0.0874,0.145,102.0,175440
-pop,Deep-deep Bubble Pop,Nick Broadhurst,Little Lover,1,0.552,0.279,4,-8.254,0,0.0417,0.697,0.000515,0.0985,0.19,91.892,239795
