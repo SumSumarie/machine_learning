@@ -1,0 +1,65 @@
+genre,playlist_name,track_artist,track_name,track_popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Post Malone,Circles,98,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Maroon 5,Memories,98,0.764,0.32,11,-7.209,1,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Dua Lipa,Don't Start Now,97,0.794,0.793,11,-4.521,0,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,The Black Eyed Peas,RITMO (Bad Boys For Life),96,0.721,0.716,10,-7.037,0,0.0657,0.0334,0.00084,0.237,0.667,104.994,221714
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Billie Eilish,bad guy,95,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Regard,Ride It,94,0.88,0.751,7,-4.258,0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,157606
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,blackbear,hot girl bummer,94,0.778,0.559,6,-7.109,0,0.0776,0.128,0.0,0.399,0.678,129.989,185093
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lewis Capaldi,Someone You Loved,94,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,182161
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Travis Scott,HIGHEST IN THE ROOM,94,0.598,0.427,7,-8.764,0,0.0317,0.0546,5.83e-06,0.21,0.0605,76.469,175721
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Selena Gomez,Lose You To Love Me,93,0.505,0.34,4,-9.005,1,0.0438,0.576,0.0,0.21,0.0916,101.993,206459
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Anuel AA,China,93,0.786,0.808,7,-3.702,1,0.0882,0.0846,0.000289,0.0822,0.609,105.027,301714
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Juice WRLD,Bandit (with YoungBoy Never Broke Again),92,0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,189323
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Rauw Alejandro,Fantasias,92,0.879,0.703,1,-4.219,1,0.0701,0.143,0.0,0.0569,0.788,94.004,199711
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Ed Sheeran,South of the Border (feat. Camila Cabello & Cardi B),91,0.857,0.621,9,-6.376,0,0.0824,0.148,0.0,0.0865,0.668,97.986,204467
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,J Balvin,LA CANCIÓN,91,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,242573
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Y2K,Lalala,91,0.843,0.391,2,-7.899,1,0.0845,0.181,0.0,0.137,0.496,129.972,160627
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Sam Smith,How Do You Sleep?,91,0.477,0.682,1,-4.931,0,0.0925,0.153,0.0,0.0763,0.345,110.567,202205
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Dan + Shay,"10,000 Hours (with Justin Bieber)",91,0.654,0.63,10,-4.644,1,0.0259,0.153,0.0,0.111,0.43,89.991,167693
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,MEDUZA,Lose Control,91,0.598,0.526,10,-8.659,0,0.0415,0.129,0.0,0.14,0.529,123.935,168387
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,SHAED,Trampoline (with ZAYN),90,0.619,0.459,7,-5.782,0,0.0334,0.56,0.0,0.137,0.498,126.803,184280
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lil Nas X,Old Town Road - Remix,90,0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,157067
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Daddy Yankee,Que Tire Pa Lante,90,0.658,0.901,7,-2.814,1,0.0357,0.0478,0.0,0.12,0.708,93.979,210520
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lil Tecca,Ransom,90,0.745,0.642,7,-6.257,0,0.287,0.0204,0.0,0.0658,0.226,179.974,131240
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Tainy,Adicto (with Anuel AA & Ozuna),90,0.734,0.836,10,-4.803,0,0.0735,0.017,1.64e-05,0.179,0.623,80.002,270741
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Bad Bunny,Callaita,90,0.61,0.624,2,-4.773,1,0.309,0.6,2.12e-06,0.243,0.244,176.169,250534
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Ed Sheeran,Beautiful People (feat. Khalid),89,0.64,0.648,5,-8.113,0,0.187,0.124,0.0,0.0802,0.548,92.977,197867
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Marshmello,Happier,89,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,214290
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lizzo,Good as Hell (feat. Ariana Grande) - Remix,89,0.668,0.892,5,-3.001,0,0.0645,0.298,0.0,0.735,0.478,95.927,159011
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Noah Cyrus,July,88,0.708,0.186,9,-8.953,0,0.0422,0.868,0.0,0.0779,0.321,72.541,156107
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Shawn Mendes,Señorita,88,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,0.749,116.967,190800
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,ROSALÍA,"Yo x Ti, Tu x Mi",88,0.78,0.759,1,-3.292,1,0.225,0.462,0.000868,0.143,0.579,91.952,201040
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Sech,Si Te Vas,88,0.732,0.644,0,-4.124,1,0.132,0.0934,4.54e-06,0.143,0.554,174.1,204907
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,DJ Snake,Loco Contigo (feat. J. Balvin & Tyga),88,0.694,0.758,11,-2.986,1,0.218,0.278,1.34e-06,0.102,0.371,192.091,185195
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,87,0.755,0.522,2,-4.368,1,0.0575,0.533,0.0,0.0685,0.925,89.96,157560
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Camila Cabello,Liar,87,0.74,0.498,11,-6.684,0,0.0456,0.0169,0.00282,0.319,0.652,98.016,207039
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Post Malone,Take What You Want (feat. Ozzy Osbourne & Travis Scott),87,0.499,0.8,1,-2.665,0,0.0502,0.0906,0.0,0.147,0.272,139.919,229573
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Halsey,Graveyard,87,0.667,0.583,11,-5.127,0,0.0747,0.231,4.48e-05,0.181,0.187,92.043,181806
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Niall Horan,Nice To Meet Ya,87,0.591,0.841,4,-4.351,0,0.0304,0.0119,0.0,0.395,0.392,109.034,158805
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Jhay Cortez,No Me Conoce - Remix,86,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,309120
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lewis Capaldi,Bruises,86,0.736,0.308,4,-7.83,1,0.0677,0.946,0.0,0.186,0.361,111.202,220492
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Selena Gomez,Look At Her Now,86,0.563,0.564,10,-7.906,0,0.271,0.114,0.0254,0.304,0.55,154.355,162596
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Young Thug,Hot (Remix) [feat. Gunna and Travis Scott],86,0.845,0.631,7,-8.206,0,0.216,0.188,0.0,0.0806,0.545,111.983,279907
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,YNW Melly,223's (feat. 9lokknine),85,0.932,0.547,0,-7.787,0,0.333,0.0388,0.0,0.0924,0.695,94.998,176640
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Ed Sheeran,Beautiful People (feat. Khalid),85,0.64,0.648,5,-8.113,0,0.187,0.124,0.0,0.0802,0.548,92.977,197867
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Kanye West,Follow God,85,0.529,0.9,1,-3.503,1,0.418,0.000248,1.21e-05,0.0426,0.434,180.291,104591
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Ed Sheeran,I Don't Care (with Justin Bieber),84,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,219947
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lauv,"fuck, i'm lonely (with Anne-Marie) - from “13 Reasons Why: Season 3”",84,0.806,0.558,9,-6.46,1,0.0683,0.482,0.0,0.0618,0.678,95.016,198973
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Aaron Smith,Dancin (feat. Luvli) - Krono Remix,84,0.72,0.741,10,-6.529,0,0.0287,0.101,1.41e-05,0.289,0.357,119.896,198053
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lil Nas X,Panini,84,0.703,0.594,5,-6.146,0,0.0752,0.342,0.0,0.123,0.475,153.848,114893
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,BTS,Make It Right (feat. Lauv),83,0.584,0.685,7,-7.811,1,0.425,0.0304,0.0,0.189,0.345,97.551,226321
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Normani,Motivation,83,0.599,0.887,4,-3.967,1,0.0984,0.0192,1.21e-06,0.3,0.881,170.918,193837
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Marshmello,Here With Me,83,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,156347
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Calvin Harris,Giant (with Rag'n'Bone Man),83,0.807,0.887,1,-4.311,0,0.0361,0.016,0.000503,0.0811,0.606,122.015,229184
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Diplo,Heartless (feat. Morgan Wallen),82,0.764,0.555,11,-6.414,1,0.0604,0.275,0.0,0.0824,0.255,111.004,169227
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Zedd,Good Thing (with Kehlani),82,0.693,0.564,1,-3.857,0,0.0378,0.399,0.0,0.0409,0.574,185.913,210901
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lauv,Feelings,81,0.694,0.466,9,-6.758,1,0.0384,0.0934,0.0,0.098,0.246,103.018,189613
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Silk City,Electricity (with Dua Lipa),81,0.588,0.67,0,-6.439,1,0.0473,0.0104,3.33e-06,0.338,0.505,118.159,238173
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Kygo,Happy Now,81,0.693,0.575,9,-6.998,1,0.0801,0.374,0.0,0.252,0.492,117.999,211362
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Major Lazer,Trigger,80,0.57,0.585,8,-7.041,1,0.251,0.128,9.7e-05,0.111,0.378,97.285,171987
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Diplo,Lonely (with Jonas Brothers),80,0.738,0.717,1,-5.121,1,0.0573,0.062,0.0,0.205,0.5,98.047,139813
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,5 Seconds of Summer,Teeth,80,0.755,0.448,3,-2.993,0,0.0405,0.0508,3.87e-06,0.11,0.431,139.028,204887
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Summer Walker,Playing Games (with Bryson Tiller) - Extended Version,80,0.726,0.408,11,-6.606,0,0.0614,0.603,0.0,0.225,0.459,115.918,143227
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Dermot Kennedy,Outnumbered,80,0.614,0.684,0,-5.79,1,0.157,0.247,0.0,0.0976,0.258,156.85,245700
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Avicii,Heaven,80,0.592,0.873,9,-5.65,1,0.0275,0.0715,0.00982,0.142,0.516,122.011,277262

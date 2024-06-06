@@ -1,0 +1,71 @@
+genre,playlist_name,track_artist,track_name,track_popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+rock,Permanent Wave,Billie Eilish,bad guy,95,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088
+rock,②⓪①⑨ mixed,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,88,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,158040
+rock,House Of The Rising Sun,Tame Impala,The Less I Know The Better,85,0.64,0.74,4,-4.083,1,0.0284,0.0115,0.00678,0.167,0.785,116.879,216320
+rock,permanent wave,Tame Impala,The Less I Know The Better,85,0.64,0.74,4,-4.083,1,0.0284,0.0115,0.00678,0.167,0.785,116.879,216320
+rock,The Queen - La Discografia Completa,Queen,Bohemian Rhapsody - 2011 Mix,84,0.414,0.404,0,-9.928,0,0.0499,0.271,0.0,0.3,0.224,71.105,354320
+rock,②⓪①⑨ mixed,Aaron Smith,Dancin (feat. Luvli) - Krono Remix,84,0.72,0.741,10,-6.529,0,0.0287,0.101,1.41e-05,0.289,0.357,119.896,198053
+rock,Hard Rock Workout,Linkin Park,In the End,83,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,216880
+rock,"Classic Rock 70s 80s 90s, Rock Classics - 70s Rock, 80s Rock, 90s Rock Rock  Classicos",AC/DC,Highway to Hell,83,0.573,0.913,6,-4.793,0,0.132,0.0591,0.00173,0.156,0.422,115.715,208400
+rock,Permanent wave,Linkin Park,In the End,83,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,216880
+rock,Permanent wave,TOTO,Africa,83,0.671,0.373,9,-18.064,1,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893
+rock,The Sound of Permanent Wave,a-ha,Take on Me,83,0.573,0.902,6,-7.638,0,0.054,0.018,0.00125,0.0928,0.876,84.412,225280
+rock,The Sound of Permanent Wave,The Police,Every Breath You Take,83,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,253920
+rock,②⓪①⑨ mixed,Twenty One Pilots,Stressed Out,83,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,202333
+rock,Classic Rock Radio,a-ha,Take on Me,83,0.573,0.902,6,-7.638,0,0.054,0.018,0.00125,0.0928,0.876,84.412,225280
+rock,permanent wave,Foster The People,Pumped Up Kicks,83,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,239600
+rock,"Classic Rock 70s 80s 90s, Rock Classics - 70s Rock, 80s Rock, 90s Rock Rock  Classicos",AC/DC,Back In Black,83,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386,255493
+rock,Permanent wave,Bon Jovi,Livin' On A Prayer,83,0.532,0.887,0,-3.757,1,0.0335,0.0778,0.000214,0.294,0.795,122.511,249293
+rock,Rock Classics,AC/DC,Back In Black,83,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386,255493
+rock,The Queen - La Discografia Completa,Queen,Don't Stop Me Now - 2011 Mix,83,0.559,0.868,5,-5.276,1,0.17,0.0475,0.000176,0.776,0.609,156.295,209413
+rock,Rock Classics,AC/DC,Highway to Hell,83,0.573,0.913,6,-4.793,0,0.132,0.0591,0.00173,0.156,0.422,115.715,208400
+rock,House Of The Rising Sun,AC/DC,Highway to Hell,83,0.573,0.913,6,-4.793,0,0.132,0.0591,0.00173,0.156,0.422,115.715,208400
+rock,The Sound of Album Rock,TOTO,Africa,83,0.671,0.373,9,-18.064,1,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893
+rock,House Of The Rising Sun,AC/DC,Back In Black,83,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386,255493
+rock,This Is Guns N' Roses,Guns N' Roses,Sweet Child O' Mine,82,0.454,0.91,6,-7.766,1,0.0446,0.0852,0.0988,0.116,0.63,125.116,354520
+rock,Classic Rock Playlist.,Queen,Another One Bites The Dust - Remastered 2011,82,0.933,0.528,5,-6.472,0,0.161,0.112,0.312,0.163,0.754,109.967,214653
+rock,The Sound of Permanent Wave,Radiohead,Creep,82,0.515,0.43,7,-9.935,1,0.0369,0.0102,0.000141,0.129,0.104,91.841,238640
+rock,The Queen - La Discografia Completa,Queen,Another One Bites The Dust - Remastered 2011,82,0.933,0.528,5,-6.472,0,0.161,0.112,0.312,0.163,0.754,109.967,214653
+rock,Hard Rock Cafe Classics,Eagles,Hotel California - 2013 Remaster,82,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,391376
+rock,Permanent wave,Guns N' Roses,Sweet Child O' Mine,82,0.454,0.91,6,-7.766,1,0.0446,0.0852,0.0988,0.116,0.63,125.116,354520
+rock,Hard Rock Classics 1967-1991 (Party Edition),Guns N' Roses,Sweet Child O' Mine,82,0.454,0.91,6,-7.766,1,0.0446,0.0852,0.0988,0.116,0.63,125.116,354520
+rock,The Sound of Album Rock,Eagles,Hotel California - 2013 Remaster,82,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,391376
+rock,Rock Classics,Guns N' Roses,Sweet Child O' Mine,82,0.454,0.91,6,-7.766,1,0.0446,0.0852,0.0988,0.116,0.63,125.116,354520
+rock,Workday: Rock Classics,Eagles,Hotel California - 2013 Remaster,82,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,391376
+rock,Permanent wave,Eagles,Hotel California - 2013 Remaster,82,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,391376
+rock,Permanent Wave,Arctic Monkeys,Do I Wanna Know?,82,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,272394
+rock,HARD ROCK CAFE,AC/DC,Thunderstruck,81,0.501,0.889,4,-5.175,1,0.0364,0.000147,0.0114,0.217,0.257,133.519,292880
+rock,Permanent Wave,Linkin Park,Numb,81,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,185587
+rock,Permanent Wave CHDB,Eurythmics,Sweet Dreams (Are Made of This) - Remastered,81,0.692,0.711,0,-7.498,0,0.0317,0.227,0.0,0.12,0.875,125.135,216933
+rock,Hard Rock Cafe Classics,Nirvana,Smells Like Teen Spirit,81,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
+rock,②⓪①⑨ mixed,Queen,Under Pressure - Remastered,81,0.671,0.712,2,-7.815,1,0.0476,0.429,0.0,0.103,0.462,113.805,248440
+rock,Workout Hard Rock,Linkin Park,Numb,81,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,185587
+rock,The Sound of Permanent Wave,Red Hot Chili Peppers,Under the Bridge,81,0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,264307
+rock,Workday: Rock Classics,Red Hot Chili Peppers,Californication,81,0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483,329733
+rock,Classic Rock,AC/DC,Thunderstruck,81,0.501,0.889,4,-5.175,1,0.0364,0.000147,0.0114,0.217,0.257,133.519,292880
+rock,Permanent wave,Coldplay,Yellow,81,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.00013,0.234,0.285,173.365,266773
+rock,Permanent wave,Red Hot Chili Peppers,Californication,81,0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483,329733
+rock,Classic Rock Retrogamer,Elton John,"Rocket Man (I Think It's Going To Be A Long, Long Time)",81,0.601,0.532,10,-9.119,1,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,281613
+rock,The Sound of Permanent Wave,Nirvana,Smells Like Teen Spirit,81,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
+rock,The Sound of Permanent Wave,R.E.M.,Losing My Religion,81,0.666,0.855,9,-5.051,0,0.0295,0.179,1.2e-06,0.0987,0.803,125.639,268427
+rock,Classic Rock Radio,Eurythmics,Sweet Dreams (Are Made of This) - Remastered,81,0.692,0.711,0,-7.498,0,0.0317,0.227,0.0,0.12,0.875,125.135,216933
+rock,The Sound of Album Rock,Lynyrd Skynyrd,Sweet Home Alabama,81,0.596,0.605,7,-12.145,1,0.0255,0.181,0.000331,0.0863,0.886,97.798,283800
+rock,Classic Rock Playlist.,Michael Jackson,Billie Jean,81,0.92,0.654,11,-3.051,0,0.0401,0.0236,0.0158,0.0359,0.847,117.046,293827
+rock,Classic Rock Playlist.,Lynyrd Skynyrd,Sweet Home Alabama,81,0.596,0.605,7,-12.145,1,0.0255,0.181,0.000331,0.0863,0.886,97.798,283800
+rock,Rock Classics,Red Hot Chili Peppers,Under the Bridge,81,0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,264307
+rock,Classic Rock Workout,Creedence Clearwater Revival,Fortunate Son,80,0.64,0.663,0,-7.516,1,0.0374,0.201,0.00806,0.152,0.663,132.77,140773
+rock,Permanent wave,The Cranberries,Zombie,80,0.307,0.635,7,-8.957,1,0.0339,0.0155,0.00486,0.366,0.305,166.978,306427
+rock,’80s Hard Rock,Journey,Don't Stop Believin',80,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,250987
+rock,The Sound of Album Rock,Journey,Don't Stop Believin',80,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,250987
+rock,L' ALBUM ROCK,Gorillaz,Feel Good Inc.,80,0.818,0.705,6,-6.679,1,0.177,0.00836,0.00233,0.613,0.772,138.559,222640
+rock,Rock Classics,Journey,Don't Stop Believin',80,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,250987
+rock,I didn’t know perm stood for permanent (wave),Harry Styles,Sign of the Times,80,0.516,0.595,5,-4.63,1,0.0313,0.0275,0.0,0.109,0.222,119.972,340707
+rock,permanent wave,Gorillaz,Feel Good Inc.,80,0.818,0.705,6,-6.679,1,0.177,0.00836,0.00233,0.613,0.772,138.559,222640
+rock,Permanent wave,Red Hot Chili Peppers,Can't Stop,80,0.618,0.938,9,-3.442,1,0.0456,0.0179,0.0,0.167,0.875,91.455,269000
+rock,SNZB PERMANENT WAVE,System Of A Down,Chop Suey!,80,0.419,0.934,7,-3.908,0,0.12,0.000278,0.0015,0.132,0.286,127.288,210240
+rock,Classic Rock Radio,Tears For Fears,Everybody Wants To Rule The World,80,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067,251489
+rock,The Sound of Permanent Wave,Tears For Fears,Everybody Wants To Rule The World,80,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067,251489
+rock,②⓪①⑨ mixed,John Mayer,New Light,80,0.828,0.689,7,-7.878,1,0.0326,0.325,0.0384,0.0808,0.853,123.931,216015
+rock,②⓪①⑨ mixed,Rex Orange County,Loving Is Easy,80,0.756,0.609,3,-7.927,1,0.0544,0.217,0.00474,0.096,0.537,117.023,155720
+rock,The Cranberries Best Of,The Cranberries,Zombie,80,0.307,0.635,7,-8.957,1,0.0339,0.0155,0.00486,0.366,0.305,166.978,306427
+rock,2000's hard rock,System Of A Down,Chop Suey!,80,0.419,0.934,7,-3.908,0,0.12,0.000278,0.0015,0.132,0.286,127.288,210240

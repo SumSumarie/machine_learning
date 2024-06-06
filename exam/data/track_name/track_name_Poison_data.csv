@@ -1,23 +1,23 @@
 genre,playlist_name,track_artist,track_name,track_popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
-pop,Post Teen Pop,Rita Ora,Poison,60,0.579,0.738,10,-5.711,1,0.0542,0.0821,1.52e-06,0.232,0.431,124.023,202907
-rap,Hip Te Hop,Sidhu Moose Wala,Poison,49,0.678,0.774,6,-3.701,0,0.266,0.0543,0.0,0.241,0.435,171.903,263721
-rap,Trap Nation,Coopex,Poison,47,0.428,0.53,7,-9.295,0,0.0455,0.261,0.000495,0.0934,0.052,155.017,151778
 rock,The Sound of Album Rock,Alice Cooper,Poison,70,0.28,0.908,2,-5.509,0,0.109,0.0327,8.85e-06,0.18,0.26,118.698,270080
 rock,Classic Rock Legends,Alice Cooper,Poison,70,0.28,0.908,2,-5.509,0,0.109,0.0327,8.85e-06,0.18,0.26,118.698,270080
-rock,80s / Classic Rock,Alice Cooper,Poison,59,0.3,0.894,2,-7.786,0,0.109,0.0515,0.000333,0.125,0.268,118.631,269600
-rock,Workday: Rock Classics,Alice Cooper,Poison,57,0.304,0.91,2,-6.096,0,0.117,0.0524,3.61e-05,0.111,0.305,118.794,270787
-rock,’80s Hard Rock,Alice Cooper,Poison,59,0.3,0.894,2,-7.786,0,0.109,0.0515,0.000333,0.125,0.268,118.631,269600
-rock,HARD ROCK CAFE,Alice Cooper,Poison,57,0.304,0.91,2,-6.096,0,0.117,0.0524,3.61e-05,0.111,0.305,118.794,270787
 rock,Hard Rock Cafe Classics,Alice Cooper,Poison,70,0.28,0.908,2,-5.509,0,0.109,0.0327,8.85e-06,0.18,0.26,118.698,270080
 r&b,Urban Contemporary,Brent Faiyaz,Poison,68,0.689,0.394,2,-10.102,0,0.065,0.711,0.000905,0.0859,0.382,117.489,212992
-r&b,Charts 2020 🔥Top 2020🔥Hits 2020🔥Summer 2020🔥Pop 2020🔥Popular Music🔥Clean Pop 2020🔥Sing Alongs,Coopex,Poison,47,0.428,0.53,7,-9.295,0,0.0455,0.261,0.000495,0.0934,0.052,155.017,151778
-r&b,Girl On Fire,Awich,Poison,43,0.604,0.77,9,-4.404,1,0.135,0.172,0.0,0.131,0.792,84.459,162337
-r&b,New Jack Swing,Bell Biv DeVoe,Poison,0,0.836,0.613,6,-9.376,0,0.21,0.00206,0.00183,0.634,0.783,111.879,261627
-r&b,New Jack Swing - 90s R&B fused w Hip Hop,Bell Biv DeVoe,Poison,48,0.841,0.701,6,-6.365,0,0.192,0.00215,0.00268,0.627,0.802,111.857,262027
-r&b,90's NEW JACK SWING,Bell Biv DeVoe,Poison,0,0.837,0.669,6,-7.312,0,0.203,0.00188,0.00157,0.599,0.761,111.871,262053
 r&b,New Jack City,Bell Biv DeVoe,Poison,66,0.84,0.56,6,-10.53,0,0.21,0.00195,0.00417,0.633,0.775,111.815,261853
-r&b,90s R&B - The BET Planet Groove/Midnight Love Mix,Bell Biv DeVoe,Poison,1,0.845,0.664,6,-7.526,0,0.228,0.00615,0.00527,0.503,0.676,111.912,262467
-r&b,"Back in the day - R&B, New Jack Swing, Swingbeat, RNB..etc.",Bell Biv DeVoe,Poison,0,0.845,0.652,6,-7.504,0,0.216,0.00432,0.00723,0.489,0.65,111.904,262467
+pop,Post Teen Pop,Rita Ora,Poison,60,0.579,0.738,10,-5.711,1,0.0542,0.0821,1.52e-06,0.232,0.431,124.023,202907
+rock,80s / Classic Rock,Alice Cooper,Poison,59,0.3,0.894,2,-7.786,0,0.109,0.0515,0.000333,0.125,0.268,118.631,269600
+rock,’80s Hard Rock,Alice Cooper,Poison,59,0.3,0.894,2,-7.786,0,0.109,0.0515,0.000333,0.125,0.268,118.631,269600
+rock,Workday: Rock Classics,Alice Cooper,Poison,57,0.304,0.91,2,-6.096,0,0.117,0.0524,3.61e-05,0.111,0.305,118.794,270787
+rock,HARD ROCK CAFE,Alice Cooper,Poison,57,0.304,0.91,2,-6.096,0,0.117,0.0524,3.61e-05,0.111,0.305,118.794,270787
+rap,Hip Te Hop,Sidhu Moose Wala,Poison,49,0.678,0.774,6,-3.701,0,0.266,0.0543,0.0,0.241,0.435,171.903,263721
+r&b,New Jack Swing - 90s R&B fused w Hip Hop,Bell Biv DeVoe,Poison,48,0.841,0.701,6,-6.365,0,0.192,0.00215,0.00268,0.627,0.802,111.857,262027
+r&b,Charts 2020 🔥Top 2020🔥Hits 2020🔥Summer 2020🔥Pop 2020🔥Popular Music🔥Clean Pop 2020🔥Sing Alongs,Coopex,Poison,47,0.428,0.53,7,-9.295,0,0.0455,0.261,0.000495,0.0934,0.052,155.017,151778
+rap,Trap Nation,Coopex,Poison,47,0.428,0.53,7,-9.295,0,0.0455,0.261,0.000495,0.0934,0.052,155.017,151778
+edm,Charts 2020 🔥Top 2020🔥Hits 2020🔥Summer 2020🔥Pop 2020🔥Popular Music🔥Clean Pop 2020🔥Sing Alongs,Coopex,Poison,47,0.428,0.53,7,-9.295,0,0.0455,0.261,0.000495,0.0934,0.052,155.017,151778
+r&b,Girl On Fire,Awich,Poison,43,0.604,0.77,9,-4.404,1,0.135,0.172,0.0,0.131,0.792,84.459,162337
 r&b,CSR 103:9 (GTA: SA),Bell Biv DeVoe,Poison,36,0.84,0.56,6,-10.53,0,0.21,0.00195,0.00417,0.633,0.775,111.815,261853
 edm,Jeff Seid Electro House,Martin Garrix,Poison,2,0.502,0.756,7,-6.118,0,0.0363,0.00429,0.769,0.377,0.062,128.125,248447
-edm,Charts 2020 🔥Top 2020🔥Hits 2020🔥Summer 2020🔥Pop 2020🔥Popular Music🔥Clean Pop 2020🔥Sing Alongs,Coopex,Poison,47,0.428,0.53,7,-9.295,0,0.0455,0.261,0.000495,0.0934,0.052,155.017,151778
+r&b,90s R&B - The BET Planet Groove/Midnight Love Mix,Bell Biv DeVoe,Poison,1,0.845,0.664,6,-7.526,0,0.228,0.00615,0.00527,0.503,0.676,111.912,262467
+r&b,New Jack Swing,Bell Biv DeVoe,Poison,0,0.836,0.613,6,-9.376,0,0.21,0.00206,0.00183,0.634,0.783,111.879,261627
+r&b,90's NEW JACK SWING,Bell Biv DeVoe,Poison,0,0.837,0.669,6,-7.312,0,0.203,0.00188,0.00157,0.599,0.761,111.871,262053
+r&b,"Back in the day - R&B, New Jack Swing, Swingbeat, RNB..etc.",Bell Biv DeVoe,Poison,0,0.845,0.652,6,-7.504,0,0.216,0.00432,0.00723,0.489,0.65,111.904,262467

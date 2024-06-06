@@ -1,0 +1,417 @@
+genre,playlist_name,track_artist,track_name,track_popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+pop,"post-teen alternative, indie, pop (large variety)",Tones and I,Dance Monkey,100,0.824,0.588,6,-6.4,0,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+pop,Todo Éxitos,KAROL G,Tusa,98,0.803,0.715,2,-3.28,1,0.298,0.295,0.000134,0.0574,0.574,101.085,200960
+pop,indie poptimism🕺🏻,The Weeknd,Blinding Lights,98,0.513,0.796,1,-4.075,1,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Post Malone,Circles,98,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
+pop,Todo Éxitos,The Weeknd,Blinding Lights,98,0.513,0.796,1,-4.075,1,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
+pop,Todo Éxitos,Maroon 5,Memories,98,0.764,0.32,11,-7.209,1,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
+pop,"post-teen alternative, indie, pop (large variety)",The Weeknd,Blinding Lights,98,0.513,0.796,1,-4.075,1,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Maroon 5,Memories,98,0.764,0.32,11,-7.209,1,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
+pop,Electropop,Trevor Daniel,Falling,97,0.784,0.43,10,-8.756,0,0.0364,0.123,0.0,0.0887,0.236,127.087,159382
+pop,indie poptimism🕺🏻,Dua Lipa,Don't Start Now,97,0.794,0.793,11,-4.521,0,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Dua Lipa,Don't Start Now,97,0.794,0.793,11,-4.521,0,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+pop,"post-teen alternative, indie, pop (large variety)",Billie Eilish,everything i wanted,97,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+pop,Music&Other Drugs,Billie Eilish,everything i wanted,97,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+pop,Todo Éxitos,Billie Eilish,everything i wanted,97,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+pop,Dance Pop,The Black Eyed Peas,RITMO (Bad Boys For Life),96,0.721,0.716,10,-7.037,0,0.0657,0.0334,0.00084,0.237,0.667,104.994,221714
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,The Black Eyed Peas,RITMO (Bad Boys For Life),96,0.721,0.716,10,-7.037,0,0.0657,0.0334,0.00084,0.237,0.667,104.994,221714
+pop,Todo Éxitos,Justin Bieber,Yummy,95,0.662,0.519,9,-6.554,0,0.106,0.404,0.0,0.121,0.495,145.841,210427
+pop,Pop Warmup 130 BPM,Billie Eilish,bad guy,95,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088
+pop,The Sound of Post-Teen Pop,Justin Bieber,Yummy,95,0.662,0.519,9,-6.554,0,0.106,0.404,0.0,0.121,0.495,145.841,210427
+pop,Music&Other Drugs,Billie Eilish,bad guy,95,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Billie Eilish,bad guy,95,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088
+pop,The Sound of Post-Teen Pop,Camila Cabello,My Oh My (feat. DaBaby),94,0.724,0.491,8,-6.024,1,0.0296,0.018,1.29e-05,0.0887,0.383,105.046,170746
+pop,Electropop,blackbear,hot girl bummer,94,0.778,0.559,6,-7.109,0,0.0776,0.128,0.0,0.399,0.678,129.989,185093
+pop,Pop / Dance,Regard,Ride It,94,0.88,0.751,7,-4.258,0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,157606
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Regard,Ride It,94,0.88,0.751,7,-4.258,0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,157606
+pop,Todo Éxitos,Lewis Capaldi,Someone You Loved,94,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,182161
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,blackbear,hot girl bummer,94,0.778,0.559,6,-7.109,0,0.0776,0.128,0.0,0.399,0.678,129.989,185093
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lewis Capaldi,Someone You Loved,94,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,182161
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Travis Scott,HIGHEST IN THE ROOM,94,0.598,0.427,7,-8.764,0,0.0317,0.0546,5.83e-06,0.21,0.0605,76.469,175721
+pop,indie poptimism🕺🏻,Camila Cabello,My Oh My (feat. DaBaby),94,0.724,0.491,8,-6.024,1,0.0296,0.018,1.29e-05,0.0887,0.383,105.046,170746
+pop,Todo Éxitos,Anuel AA,China,93,0.786,0.808,7,-3.702,1,0.0882,0.0846,0.000289,0.0822,0.609,105.027,301714
+pop,Todo Éxitos,Shawn Mendes,Señorita,93,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,190960
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Selena Gomez,Lose You To Love Me,93,0.505,0.34,4,-9.005,1,0.0438,0.576,0.0,0.21,0.0916,101.993,206459
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Anuel AA,China,93,0.786,0.808,7,-3.702,1,0.0882,0.0846,0.000289,0.0822,0.609,105.027,301714
+pop,Todo Éxitos,The Weeknd,Heartless,93,0.531,0.75,10,-5.831,0,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+pop,Todo Éxitos,Selena Gomez,Lose You To Love Me,93,0.505,0.34,4,-9.005,1,0.0438,0.576,0.0,0.21,0.0916,101.993,206459
+pop,indie poptimism🕺🏻,Shawn Mendes,Señorita,93,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,190960
+pop,Todo Éxitos,Juice WRLD,Bandit (with YoungBoy Never Broke Again),92,0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,189323
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Juice WRLD,Bandit (with YoungBoy Never Broke Again),92,0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,189323
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Rauw Alejandro,Fantasias,92,0.879,0.703,1,-4.219,1,0.0701,0.143,0.0,0.0569,0.788,94.004,199711
+pop,Pop Dance Hits,Tones and I,Dance Monkey,92,0.824,0.588,6,-6.4,0,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+pop,Todo Éxitos,J Balvin,LA CANCIÓN,91,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,242573
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Ed Sheeran,South of the Border (feat. Camila Cabello & Cardi B),91,0.857,0.621,9,-6.376,0,0.0824,0.148,0.0,0.0865,0.668,97.986,204467
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,J Balvin,LA CANCIÓN,91,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,242573
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Y2K,Lalala,91,0.843,0.391,2,-7.899,1,0.0845,0.181,0.0,0.137,0.496,129.972,160627
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Sam Smith,How Do You Sleep?,91,0.477,0.682,1,-4.931,0,0.0925,0.153,0.0,0.0763,0.345,110.567,202205
+pop,TUNES DANCE AND POP,Harry Styles,Adore You,91,0.676,0.771,8,-3.675,1,0.0483,0.0237,7e-06,0.102,0.569,99.048,207133
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Dan + Shay,"10,000 Hours (with Justin Bieber)",91,0.654,0.63,10,-4.644,1,0.0259,0.153,0.0,0.111,0.43,89.991,167693
+pop,indie poptimism🕺🏻,Tyga,Ayy Macarena,91,0.816,0.63,2,-5.568,1,0.226,0.133,0.0,0.0692,0.715,96.493,131607
+pop,indie poptimism🕺🏻,Y2K,Lalala,91,0.843,0.391,2,-7.899,1,0.0845,0.181,0.0,0.137,0.496,129.972,160627
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,MEDUZA,Lose Control,91,0.598,0.526,10,-8.659,0,0.0415,0.129,0.0,0.14,0.529,123.935,168387
+pop,Dance Room,MEDUZA,Lose Control,91,0.598,0.526,10,-8.659,0,0.0415,0.129,0.0,0.14,0.529,123.935,168387
+pop,POPTIMISM,Sam Smith,How Do You Sleep?,91,0.477,0.682,1,-4.931,0,0.0925,0.153,0.0,0.0763,0.345,110.567,202205
+pop,Todo Éxitos,Lewis Capaldi,Before You Go,90,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,215107
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,SHAED,Trampoline (with ZAYN),90,0.619,0.459,7,-5.782,0,0.0334,0.56,0.0,0.137,0.498,126.803,184280
+pop,"post-teen alternative, indie, pop (large variety)",Harry Styles,Watermelon Sugar,90,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,174000
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lil Nas X,Old Town Road - Remix,90,0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,157067
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Daddy Yankee,Que Tire Pa Lante,90,0.658,0.901,7,-2.814,1,0.0357,0.0478,0.0,0.12,0.708,93.979,210520
+pop,indie poptimism🕺🏻,Ed Sheeran,I Don't Care (with Justin Bieber),90,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,219947
+pop,Todo Éxitos,Tainy,Adicto (with Anuel AA & Ozuna),90,0.734,0.836,10,-4.803,0,0.0735,0.017,1.64e-05,0.179,0.623,80.002,270741
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lil Tecca,Ransom,90,0.745,0.642,7,-6.257,0,0.287,0.0204,0.0,0.0658,0.226,179.974,131240
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Tainy,Adicto (with Anuel AA & Ozuna),90,0.734,0.836,10,-4.803,0,0.0735,0.017,1.64e-05,0.179,0.623,80.002,270741
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Bad Bunny,Callaita,90,0.61,0.624,2,-4.773,1,0.309,0.6,2.12e-06,0.243,0.244,176.169,250534
+pop,Todo Éxitos,Daddy Yankee,Que Tire Pa Lante,90,0.658,0.901,7,-2.814,1,0.0357,0.0478,0.0,0.12,0.708,93.979,210520
+pop,Intro to Post-Teen Pop,Ariana Grande,7 rings,90,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,178627
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,Ant Saunders,Yellow Hearts,89,0.865,0.438,7,-8.943,1,0.0719,0.177,0.0,0.0743,0.695,129.038,223258
+pop,indie poptimism🕺🏻,Lizzo,Good as Hell (feat. Ariana Grande) - Remix,89,0.668,0.892,5,-3.001,0,0.0645,0.298,0.0,0.735,0.478,95.927,159011
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Ed Sheeran,Beautiful People (feat. Khalid),89,0.64,0.648,5,-8.113,0,0.187,0.124,0.0,0.0802,0.548,92.977,197867
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Marshmello,Happier,89,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,214290
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lizzo,Good as Hell (feat. Ariana Grande) - Remix,89,0.668,0.892,5,-3.001,0,0.0645,0.298,0.0,0.735,0.478,95.927,159011
+pop,"post-teen alternative, indie, pop (large variety)",Ali Gatie,It's You,89,0.732,0.463,11,-6.972,0,0.0287,0.374,0.0,0.194,0.397,95.971,212607
+pop,Electropop 2019,Marshmello,Happier,89,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,214290
+pop,indie poptimism🕺🏻,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,88,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,158040
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Noah Cyrus,July,88,0.708,0.186,9,-8.953,0,0.0422,0.868,0.0,0.0779,0.321,72.541,156107
+pop,Intro to Post-Teen Pop,Halsey,Without Me,88,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,201661
+pop,Post pop teen,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,88,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,158040
+pop,"post-teen alternative, indie, pop (large variety)",JP Saxe,If The World Was Ending (feat. Julia Michaels),88,0.464,0.473,1,-10.086,1,0.129,0.866,0.0,0.109,0.604,75.801,208687
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Shawn Mendes,Señorita,88,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,0.749,116.967,190800
+pop,indie poptimism🕺🏻,Selena Gomez,Rare,88,0.838,0.545,5,-6.713,1,0.0706,0.208,8.01e-05,0.103,0.631,114.998,220590
+pop,Intro to Post-Teen Pop,Harry Styles,Adore You,88,0.676,0.771,8,-3.675,1,0.0483,0.0237,7e-06,0.102,0.569,99.048,207133
+pop,Intro to Post-Teen Pop,Ellie Goulding,Hate Me (with Juice WRLD),88,0.657,0.768,8,-4.628,1,0.0507,0.108,0.0,0.144,0.759,75.025,186223
+pop,The Sound of Post-Teen Pop,Selena Gomez,Rare,88,0.838,0.545,5,-6.713,1,0.0706,0.208,8.01e-05,0.103,0.631,114.998,220590
+pop,Electropop 2019,Halsey,Without Me,88,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,201661
+pop,TUNES DANCE AND POP,Selena Gomez,Rare,88,0.838,0.545,5,-6.713,1,0.0706,0.208,8.01e-05,0.103,0.631,114.998,220590
+pop,indie poptimism🕺🏻,Harry Styles,Adore You,88,0.676,0.771,8,-3.675,1,0.0483,0.0237,7e-06,0.102,0.569,99.048,207133
+pop,Dance Pop Tunes,SAINt JHN,Roses - Imanbek Remix,88,0.77,0.724,8,-5.484,1,0.0495,0.0167,0.0105,0.353,0.898,121.974,176840
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,ROSALÍA,"Yo x Ti, Tu x Mi",88,0.78,0.759,1,-3.292,1,0.225,0.462,0.000868,0.143,0.579,91.952,201040
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Sech,Si Te Vas,88,0.732,0.644,0,-4.124,1,0.132,0.0934,4.54e-06,0.143,0.554,174.1,204907
+pop,Todo Éxitos,Reik,Indeciso,88,0.738,0.748,0,-4.902,1,0.0453,0.182,0.0,0.11,0.896,94.949,217253
+pop,TUNES DANCE AND POP,Shawn Mendes,Señorita,88,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,0.749,116.967,190800
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,DJ Snake,Loco Contigo (feat. J. Balvin & Tyga),88,0.694,0.758,11,-2.986,1,0.218,0.278,1.34e-06,0.102,0.371,192.091,185195
+pop,Todo Éxitos,J Balvin,Blanco,88,0.87,0.706,9,-5.395,0,0.126,0.0253,0.0063,0.0872,0.593,100.013,145800
+pop,"post-teen alternative, indie, pop (large variety)",Khalid,Up All Night,87,0.665,0.712,1,-7.536,1,0.0527,0.00103,0.00342,0.102,0.669,93.989,157220
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,87,0.755,0.522,2,-4.368,1,0.0575,0.533,0.0,0.0685,0.925,89.96,157560
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Camila Cabello,Liar,87,0.74,0.498,11,-6.684,0,0.0456,0.0169,0.00282,0.319,0.652,98.016,207039
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Post Malone,Take What You Want (feat. Ozzy Osbourne & Travis Scott),87,0.499,0.8,1,-2.665,0,0.0502,0.0906,0.0,0.147,0.272,139.919,229573
+pop,Post pop teen,Ariana Grande,"thank u, next",87,0.717,0.653,1,-5.634,1,0.0658,0.229,0.0,0.101,0.412,106.966,207320
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Halsey,Graveyard,87,0.667,0.583,11,-5.127,0,0.0747,0.231,4.48e-05,0.181,0.187,92.043,181806
+pop,"post-teen alternative, indie, pop (large variety)",Ava Max,Sweet but Psycho,87,0.719,0.704,1,-4.724,1,0.0476,0.0691,0.0,0.166,0.628,133.002,187436
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Niall Horan,Nice To Meet Ya,87,0.591,0.841,4,-4.351,0,0.0304,0.0119,0.0,0.395,0.392,109.034,158805
+pop,Pop Remix,Kygo,Higher Love,87,0.693,0.678,8,-7.159,1,0.0324,0.0154,6.05e-06,0.101,0.404,103.952,228267
+pop,The Sound of Post-Teen Pop,Jonas Brothers,Sucker,87,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,181027
+pop,indie poptimism🕺🏻,Kygo,Higher Love,87,0.693,0.678,8,-7.159,1,0.0324,0.0154,6.05e-06,0.101,0.404,103.952,228267
+pop,Dance Pop Tunes,Sam Smith,Dancing With A Stranger (with Normani),87,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,171030
+pop,Electropop 2019,Ava Max,Sweet but Psycho,87,0.719,0.704,1,-4.724,1,0.0476,0.0691,0.0,0.166,0.628,133.002,187436
+pop,Electropop 2019,Sam Smith,Dancing With A Stranger (with Normani),87,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,171030
+pop,Electropop 2019,Post Malone,Better Now,87,0.68,0.578,10,-5.804,1,0.04,0.331,0.0,0.135,0.341,145.038,231267
+pop,POPTIMISM,Camila Cabello,Liar,87,0.74,0.498,11,-6.684,0,0.0456,0.0169,0.00282,0.319,0.652,98.016,207039
+pop,10er Playlist,Ariana Grande,"thank u, next",87,0.717,0.653,1,-5.634,1,0.0658,0.229,0.0,0.101,0.412,106.966,207320
+pop,Pop Warmup 130 BPM,Ava Max,Sweet but Psycho,87,0.719,0.704,1,-4.724,1,0.0476,0.0691,0.0,0.166,0.628,133.002,187436
+pop,Todo Éxitos,Daddy Yankee,Con Calma,87,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-06,0.0574,0.656,93.989,193227
+pop,Post Teen Pop,Sam Smith,Dancing With A Stranger (with Normani),87,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,171030
+pop,Todo Éxitos,Niall Horan,Nice To Meet Ya,87,0.591,0.841,4,-4.351,0,0.0304,0.0119,0.0,0.395,0.392,109.034,158805
+pop,indie poptimism🕺🏻,Daddy Yankee,Con Calma,87,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-06,0.0574,0.656,93.989,193227
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,Camila Cabello,Liar,87,0.74,0.498,11,-6.684,0,0.0456,0.0169,0.00282,0.319,0.652,98.016,207039
+pop,Music&Other Drugs,Billie Eilish,bury a friend,87,0.905,0.389,8,-14.505,1,0.332,0.74,0.162,0.106,0.196,120.046,193143
+pop,POPTIMISM,Halsey,Graveyard,87,0.667,0.583,11,-5.127,0,0.0747,0.231,4.48e-05,0.181,0.187,92.043,181806
+pop,Someone You Loved Lewis Capaldi (Pop Music Mix),Travis Scott,SICKO MODE,87,0.834,0.73,8,-3.714,1,0.222,0.00513,0.0,0.124,0.446,155.008,312820
+pop,Someone You Loved Lewis Capaldi (Pop Music Mix),Post Malone,Better Now,87,0.68,0.578,10,-5.804,1,0.04,0.331,0.0,0.135,0.341,145.038,231267
+pop,Electropop,Travis Scott,goosebumps,86,0.841,0.728,7,-3.37,1,0.0484,0.0847,0.0,0.149,0.43,130.049,243837
+pop,Electropop,Kina,Get You The Moon (feat. Snøw),86,0.498,0.235,1,-16.541,0,0.188,0.72,0.0,0.144,0.0895,118.917,179080
+pop,Electropop,Panic! At The Disco,High Hopes,86,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,190947
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Jhay Cortez,No Me Conoce - Remix,86,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,309120
+pop,ELECTROPOP🐹,Drake,God's Plan,86,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973
+pop,ElectroPop 2020,Ed Sheeran,Shape of You,86,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,233713
+pop,Intro to Post-Teen Pop,Taylor Swift,You Need To Calm Down,86,0.771,0.671,2,-5.617,1,0.0553,0.00929,0.0,0.0637,0.714,85.026,171360
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lewis Capaldi,Bruises,86,0.736,0.308,4,-7.83,1,0.0677,0.946,0.0,0.186,0.361,111.202,220492
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Selena Gomez,Look At Her Now,86,0.563,0.564,10,-7.906,0,0.271,0.114,0.0254,0.304,0.55,154.355,162596
+pop,🤩🤪Post Teen Pop🤪🤩,Halsey,You should be sad,86,0.591,0.585,2,-6.35,1,0.0277,0.143,0.0,0.109,0.324,110.94,205473
+pop,indie poptimism🕺🏻,Selena Gomez,Look At Her Now,86,0.563,0.564,10,-7.906,0,0.271,0.114,0.0254,0.304,0.55,154.355,162596
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Young Thug,Hot (Remix) [feat. Gunna and Travis Scott],86,0.845,0.631,7,-8.206,0,0.216,0.188,0.0,0.0806,0.545,111.983,279907
+pop,Music&Other Drugs,Billie Eilish,all the good girls go to hell,86,0.726,0.444,8,-8.922,0,0.372,0.283,0.143,0.177,0.569,185.044,168840
+pop,post teen pop,Ed Sheeran,Shape of You,86,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,233713
+pop,Post Teen Pop,Panic! At The Disco,High Hopes,86,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,190947
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,Ed Sheeran,Shape of You,86,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,233713
+pop,Dance Pop,Riton,Turn Me On (feat. Vula),86,0.737,0.828,11,-4.711,1,0.0396,0.0149,0.000583,0.0862,0.517,124.052,208474
+pop,Todo Éxitos,Halsey,You should be sad,86,0.591,0.585,2,-6.35,1,0.0277,0.143,0.0,0.109,0.324,110.94,205473
+pop,A Loose Definition of Indie Poptimism,The Chainsmokers,Closer (feat. Halsey),85,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,244960
+pop,indie poptimism🕺🏻,BTS,Boy With Luv (feat. Halsey),85,0.645,0.862,11,-4.757,0,0.0965,0.0923,0.0,0.192,0.798,119.991,229773
+pop,indie poptimism🕺🏻,Katy Perry,Never Really Over,85,0.77,0.882,8,-4.792,1,0.0602,0.194,0.0,0.316,0.385,99.991,223523
+pop,indie poptimism🕺🏻,Calvin Harris,One Kiss (with Dua Lipa),85,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,214847
+pop,The Sound of Post-Teen Pop,Katy Perry,Never Really Over,85,0.77,0.882,8,-4.792,1,0.0602,0.194,0.0,0.316,0.385,99.991,223523
+pop,"post-teen alternative, indie, pop (large variety)",The Chainsmokers,Takeaway,85,0.528,0.511,3,-8.144,1,0.0324,0.126,0.0,0.101,0.351,100.1,209880
+pop,Post pop teen,John Legend,All of Me,85,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,269560
+pop,"Indie Poptimism (PUBLIC, The Band CAMINO, lovelytheband)",Lauv,Mean It,85,0.746,0.45,7,-8.543,1,0.0872,0.0407,0.0,0.172,0.336,95.998,232853
+pop,10er Playlist,James Arthur,Say You Won't Let Go,85,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,211467
+pop,Mix ElectroPop//ElectroHouse// DeepHouse 2020,Calvin Harris,One Kiss (with Dua Lipa),85,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,214847
+pop,Electropop,Doja Cat,Candy,85,0.689,0.516,8,-5.857,1,0.0444,0.513,0.0,0.163,0.209,124.876,190920
+pop,Intro to Post-Teen Pop,Selena Gomez,Lose You To Love Me,85,0.488,0.343,4,-8.985,1,0.0436,0.556,0.0,0.21,0.0978,102.819,206459
+pop,Electropop 2019,Mabel,Don't Call Me Up,85,0.674,0.881,9,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,178480
+pop,Electropop Hits  2017-2020,The Chainsmokers,Closer (feat. Halsey),85,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,244960
+pop,Post pop teen,The Chainsmokers,Closer (feat. Halsey),85,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,244960
+pop,a taste of the mainstream,Lauv,Mean It,85,0.746,0.45,7,-8.543,1,0.0872,0.0407,0.0,0.172,0.336,95.998,232853
+pop,Dr. Q's Prescription Playlist💊,Imagine Dragons,Thunder,85,0.605,0.822,0,-4.833,1,0.0438,0.00671,0.134,0.147,0.288,167.997,187147
+pop,Post pop teen,Calvin Harris,One Kiss (with Dua Lipa),85,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,214847
+pop,Someone You Loved Lewis Capaldi (Pop Music Mix),Meek Mill,Going Bad (feat. Drake),85,0.889,0.496,4,-6.365,0,0.0905,0.259,0.0,0.252,0.544,86.003,180522
+pop,Post pop teen,Mabel,Don't Call Me Up,85,0.674,0.881,9,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,178480
+pop,Someone You Loved Lewis Capaldi (Pop Music Mix),A Boogie Wit da Hoodie,Swervin (feat. 6ix9ine),85,0.581,0.662,9,-5.239,1,0.303,0.0153,0.0,0.111,0.434,93.023,189487
+pop,ElectroPop 2020,Imagine Dragons,Thunder,85,0.605,0.822,0,-4.833,1,0.0438,0.00671,0.134,0.147,0.288,167.997,187147
+pop,Post pop teen,James Arthur,Say You Won't Let Go,85,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,211467
+pop,Dance Pop,Calvin Harris,One Kiss (with Dua Lipa),85,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,214847
+pop,Pop / Dance,Marshmello,One Thing Right,85,0.659,0.623,4,-2.253,1,0.0451,0.0667,0.0,0.582,0.439,88.042,181824
+pop,Dance Pop Tunes,The Chainsmokers,Family,85,0.584,0.607,11,-6.605,1,0.0356,0.426,0.0,0.101,0.374,117.817,194827
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,YNW Melly,223's (feat. 9lokknine),85,0.932,0.547,0,-7.787,0,0.333,0.0388,0.0,0.0924,0.695,94.998,176640
+pop,Dance Pop,The Chainsmokers,Closer (feat. Halsey),85,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,244960
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Ed Sheeran,Beautiful People (feat. Khalid),85,0.64,0.648,5,-8.113,0,0.187,0.124,0.0,0.0802,0.548,92.977,197867
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Kanye West,Follow God,85,0.529,0.9,1,-3.503,1,0.418,0.000248,1.21e-05,0.0426,0.434,180.291,104591
+pop,K-Party Dance Mix,BTS,Boy With Luv (feat. Halsey),85,0.645,0.862,11,-4.757,0,0.0965,0.0923,0.0,0.192,0.798,119.991,229773
+pop,Dance Pop,Mabel,Don't Call Me Up,85,0.674,0.881,9,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,178480
+pop,Todo Éxitos,Taylor Swift,Lover (Remix) [feat. Shawn Mendes],85,0.448,0.603,7,-7.176,1,0.064,0.433,0.0,0.0862,0.422,205.272,221307
+pop,Dance Pop Tunes,Alan Walker,"Alone, Pt. II",85,0.67,0.668,3,-4.306,0,0.0422,0.536,0.0,0.133,0.608,88.033,179053
+pop,Dance Pop,Katy Perry,Never Really Over,85,0.77,0.882,8,-4.792,1,0.0602,0.194,0.0,0.316,0.385,99.991,223523
+pop,Todo Éxitos,Lunay,Soltera - Remix,85,0.795,0.783,5,-4.271,1,0.0432,0.361,0.0,0.437,0.8,92.016,266087
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,John Legend,All of Me,85,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,269560
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Ed Sheeran,I Don't Care (with Justin Bieber),84,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,219947
+pop,"post-teen alternative, indie, pop (large variety)",Avicii,Wake Me Up,84,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427
+pop,Post Teen Pop,Zedd,The Middle,84,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,184732
+pop,indie poptimism🕺🏻,Shawn Mendes,If I Can't Have You,84,0.692,0.809,2,-4.198,1,0.0602,0.524,0.0,0.147,0.864,123.911,190800
+pop,Post pop teen,Camila Cabello,Havana (feat. Young Thug),84,0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,217307
+pop,10er Playlist,Kendrick Lamar,HUMBLE.,84,0.908,0.621,1,-6.638,0,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000
+pop,Dance Pop,Avicii,Wake Me Up,84,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427
+pop,Electropop,5 Seconds of Summer,Youngblood,84,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,203418
+pop,10er Playlist,Cardi B,I Like It,84,0.816,0.726,5,-3.998,0,0.129,0.099,0.0,0.372,0.65,136.048,253390
+pop,ELECTROPOP🐹,Avicii,Wake Me Up,84,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427
+pop,Dance Pop,Dynoro,In My Mind,84,0.694,0.77,6,-5.335,1,0.149,0.176,1.1e-05,0.118,0.163,125.905,184560
+pop,10er Playlist,Post Malone,Congratulations,84,0.63,0.804,6,-4.183,1,0.0363,0.215,0.0,0.253,0.492,123.146,220293
+pop,ElectroPop 2020,Aaron Smith,Dancin (feat. Luvli) - Krono Remix,84,0.72,0.741,10,-6.529,0,0.0287,0.101,1.41e-05,0.289,0.357,119.896,198053
+pop,10er Playlist,Camila Cabello,Havana (feat. Young Thug),84,0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,217307
+pop,Electropop,Lil Uzi Vert,XO Tour Llif3,84,0.732,0.75,11,-6.366,0,0.231,0.00264,0.0,0.109,0.401,155.096,182707
+pop,Post pop teen,Ed Sheeran,Photograph,84,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,258987
+pop,Dr. Q's Prescription Playlist💊,5 Seconds of Summer,Youngblood,84,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,203418
+pop,post teen pop,The Weeknd,Starboy,84,0.678,0.588,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.005,230453
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lauv,"fuck, i'm lonely (with Anne-Marie) - from “13 Reasons Why: Season 3”",84,0.806,0.558,9,-6.46,1,0.0683,0.482,0.0,0.0618,0.678,95.016,198973
+pop,Electropop 2019,benny blanco,Eastside (with Halsey & Khalid),84,0.56,0.68,6,-7.648,0,0.321,0.555,0.0,0.116,0.319,89.391,173800
+pop,Music&Other Drugs,Billie Eilish,you should see me in a crown,84,0.678,0.533,4,-10.485,1,0.186,0.462,0.219,0.139,0.323,150.455,180953
+pop,Electropop 2019,Calvin Harris,Promises (with Sam Smith),84,0.781,0.768,11,-5.991,1,0.0394,0.0119,4.91e-06,0.325,0.486,123.07,213309
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Aaron Smith,Dancin (feat. Luvli) - Krono Remix,84,0.72,0.741,10,-6.529,0,0.0287,0.101,1.41e-05,0.289,0.357,119.896,198053
+pop,Dance Pop,Zedd,The Middle,84,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,184732
+pop,post teen pop,Ariana Grande,boyfriend (with Social House),84,0.4,0.795,10,-3.731,0,0.461,0.119,0.0,0.159,0.702,190.097,186107
+pop,post teen pop,Justin Bieber,Mistletoe,84,0.658,0.56,6,-9.049,0,0.0467,0.498,0.0,0.0794,0.854,161.994,182947
+pop,Someone You Loved Lewis Capaldi (Pop Music Mix),Lil Baby,Drip Too Hard (Lil Baby & Gunna),84,0.897,0.662,1,-6.903,0,0.292,0.0852,0.0,0.534,0.389,112.511,145543
+pop,Dance Pop,Calvin Harris,Promises (with Sam Smith),84,0.781,0.768,11,-5.991,1,0.0394,0.0119,4.91e-06,0.325,0.486,123.07,213309
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lil Nas X,Panini,84,0.703,0.594,5,-6.146,0,0.0752,0.342,0.0,0.123,0.475,153.848,114893
+pop,"post-teen alternative, indie, pop (large variety)",Tones and I,Never Seen The Rain,84,0.672,0.464,6,-5.624,0,0.037,0.43,0.0,0.284,0.271,92.069,200742
+pop,indie poptimism🕺🏻,Lauv,"fuck, i'm lonely (with Anne-Marie) - from “13 Reasons Why: Season 3”",84,0.806,0.558,9,-6.46,1,0.0683,0.482,0.0,0.0618,0.678,95.016,198973
+pop,Todo Éxitos,Major Lazer,Que Calor (feat. J Balvin & El Alfa),84,0.795,0.885,8,-4.13,1,0.0713,0.0375,0.00638,0.292,0.46,126.037,169998
+pop,ElectroPop,Zedd,The Middle,84,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,184732
+pop,Post Teen Pop,Ariana Grande,"break up with your girlfriend, i'm bored",84,0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,190440
+pop,10er Playlist,The Weeknd,Starboy,84,0.678,0.588,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.005,230453
+pop,Dr. Q's Prescription Playlist💊,AC/DC,Back In Black,83,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386,255493
+pop,Mix ElectroPop//ElectroHouse// DeepHouse 2020,Macklemore & Ryan Lewis,Can't Hold Us - feat. Ray Dalton,83,0.641,0.922,2,-4.457,1,0.0786,0.0291,0.0,0.0862,0.847,146.078,258343
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,Foster The People,Pumped Up Kicks,83,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,239600
+pop,Pop Warmup 130 BPM,Ava Max,So Am I,83,0.682,0.656,6,-4.67,1,0.0435,0.0737,0.0,0.353,0.607,130.089,183027
+pop,Electropop 2019,Calvin Harris,Giant (with Rag'n'Bone Man),83,0.807,0.887,1,-4.311,0,0.0361,0.016,0.000503,0.0811,0.606,122.015,229184
+pop,Dance Pop Tunes,Alan Walker,On My Way,83,0.509,0.689,1,-4.929,0,0.102,0.0209,0.0,0.301,0.297,170.087,193798
+pop,Electropop 80/90s,a-ha,Take on Me,83,0.573,0.902,6,-7.638,0,0.054,0.018,0.00125,0.0928,0.876,84.412,225280
+pop,ELECTROPOP🐹,Marshmello,FRIENDS,83,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,202621
+pop,ELECTROPOP🐹,Drake,In My Feelings,83,0.835,0.626,1,-5.833,1,0.125,0.0589,6e-05,0.396,0.35,91.03,217925
+pop,Electropop - Pop,Drake,One Dance,83,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.00188,0.329,0.37,103.967,173987
+pop,BALLARE - رقص,a-ha,Take on Me,83,0.573,0.902,6,-7.638,0,0.054,0.018,0.00125,0.0928,0.876,84.412,225280
+pop,BALLARE - رقص,Twenty One Pilots,Stressed Out,83,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,202333
+pop,Someone You Loved Lewis Capaldi (Pop Music Mix),DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",83,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,212500
+pop,ElectroPop 2020,The Chainsmokers,Something Just Like This,83,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,247160
+pop,Post Teen Pop,Khalid,Young Dumb & Broke,83,0.798,0.539,1,-6.351,1,0.0421,0.199,1.66e-05,0.165,0.394,136.949,202547
+pop,ELECTROPOP,Twenty One Pilots,Stressed Out,83,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,202333
+pop,post teen pop,Macklemore & Ryan Lewis,Can't Hold Us - feat. Ray Dalton,83,0.641,0.922,2,-4.457,1,0.0786,0.0291,0.0,0.0862,0.847,146.078,258343
+pop,Pop / Dance,Normani,Motivation,83,0.599,0.887,4,-3.967,1,0.0984,0.0192,1.21e-06,0.3,0.881,170.918,193837
+pop,Electropop 2019,Lauv,i'm so tired...,83,0.599,0.733,11,-7.058,1,0.203,0.176,0.0,0.242,0.534,102.211,162583
+pop,Electropop Hits  2017-2020,Dua Lipa,New Rules,83,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,209320
+pop,Mix ElectroPop//ElectroHouse// DeepHouse 2020,Coldplay,The Scientist,83,0.56,0.442,5,-7.224,1,0.0243,0.727,1.71e-05,0.11,0.212,146.448,309600
+pop,Intro to Post-Teen Pop,Anne-Marie,2002,83,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,186987
+pop,Mix ElectroPop//ElectroHouse// DeepHouse 2020,Shawn Mendes,Treat You Better,83,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,187973
+pop,Dance Pop,The Chainsmokers,Something Just Like This,83,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,247160
+pop,Mix ElectroPop//ElectroHouse// DeepHouse 2020,Avicii,SOS (feat. Aloe Blacc),83,0.802,0.645,5,-6.181,0,0.0715,0.272,0.0,0.119,0.376,100.001,157202
+pop,indie poptimism🕺🏻,Dua Lipa,New Rules,83,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,209320
+pop,"post-teen alternative, indie, pop (large variety)",Lewis Capaldi,Before You Go,83,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,215107
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,BTS,Make It Right (feat. Lauv),83,0.584,0.685,7,-7.811,1,0.425,0.0304,0.0,0.189,0.345,97.551,226321
+pop,"post-teen alternative, indie, pop (large variety)",Ava Max,So Am I,83,0.682,0.656,6,-4.67,1,0.0435,0.0737,0.0,0.353,0.607,130.089,183027
+pop,indie poptimism🕺🏻,Marshmello,FRIENDS,83,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,202621
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Normani,Motivation,83,0.599,0.887,4,-3.967,1,0.0984,0.0192,1.21e-06,0.3,0.881,170.918,193837
+pop,Dance Pop,DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",83,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,212500
+pop,Post pop teen,Ariana Grande,no tears left to cry,83,0.699,0.713,9,-5.507,0,0.0594,0.04,3.11e-06,0.294,0.354,121.993,205920
+pop,indie poptimism🕺🏻,Imagine Dragons,Bad Liar,83,0.383,0.637,3,-6.993,1,0.0703,0.0722,0.0,0.368,0.0827,177.913,260773
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Marshmello,Here With Me,83,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,156347
+pop,random playlist that can't decide its genre so go ahead jam along with these catchy tunes,Twenty One Pilots,Stressed Out,83,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,202333
+pop,Indie Poptimism,Foster The People,Pumped Up Kicks,83,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,239600
+pop,Dance Pop,Marshmello,Here With Me,83,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,156347
+pop,Dance Pop,Sam Feldt,Post Malone (feat. RANI),83,0.59,0.642,7,-3.87,1,0.122,0.0771,0.0,0.105,0.651,107.356,174444
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Calvin Harris,Giant (with Rag'n'Bone Man),83,0.807,0.887,1,-4.311,0,0.0361,0.016,0.000503,0.0811,0.606,122.015,229184
+pop,Post pop teen,Shawn Mendes,Treat You Better,83,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,187973
+pop,indie poptimism🕺🏻,Ava Max,So Am I,83,0.682,0.656,6,-4.67,1,0.0435,0.0737,0.0,0.353,0.607,130.089,183027
+pop,Pop Remix,Billie Eilish,bad guy (with Justin Bieber),83,0.67,0.453,0,-11.265,1,0.295,0.252,0.33,0.117,0.68,135.055,194840
+pop,Electropop Hits  2017-2020,Foster The People,Pumped Up Kicks,83,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,239600
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,Dua Lipa,New Rules,83,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,209320
+pop,Dance Pop Hits,Calvin Harris,Giant (with Rag'n'Bone Man),83,0.807,0.887,1,-4.311,0,0.0361,0.016,0.000503,0.0811,0.606,122.015,229184
+pop,10er Playlist,Ariana Grande,no tears left to cry,83,0.699,0.713,9,-5.507,0,0.0594,0.04,3.11e-06,0.294,0.354,121.993,205920
+pop,🤩🤪Post Teen Pop🤪🤩,Lauv,I Like Me Better,83,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,197437
+pop,Post pop teen,Foster The People,Pumped Up Kicks,83,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,239600
+pop,10er Playlist,The Weeknd,The Hills,83,0.58,0.565,0,-7.065,0,0.0488,0.0671,0.0,0.135,0.138,112.986,242253
+pop,Dance Pop Hits,Martin Garrix,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),83,0.661,0.723,5,-6.976,0,0.0566,0.179,1.23e-05,0.14,0.316,113.778,163805
+pop,POPTIMISM,Avicii,SOS (feat. Aloe Blacc),83,0.802,0.645,5,-6.181,0,0.0715,0.272,0.0,0.119,0.376,100.001,157202
+pop,Someone You Loved Lewis Capaldi (Pop Music Mix),Kodak Black,ZEZE,83,0.861,0.603,8,-5.788,0,0.176,0.0521,0.0,0.0924,0.504,98.043,228760
+pop,Dance Room,Martin Garrix,Used To Love (with Dean Lewis),83,0.651,0.693,4,-4.722,1,0.0375,0.458,0.0,0.335,0.392,118.97,236765
+pop,Todo Éxitos,Omar Montes,Alocao (With Bad Gyal),82,0.673,0.752,11,-4.705,0,0.0567,0.214,1.53e-06,0.106,0.699,178.005,209320
+pop,80's Songs | Top 💯 80s Music Hits,Guns N' Roses,Sweet Child O' Mine,82,0.454,0.91,6,-7.766,1,0.0446,0.0852,0.0988,0.116,0.63,125.116,354520
+pop,Electropop 2019,Ellie Goulding,Close To Me (with Diplo) (feat. Swae Lee),82,0.574,0.758,1,-5.029,0,0.0621,0.0969,0.0,0.395,0.492,144.111,182623
+pop,10er Playlist,French Montana,Unforgettable,82,0.726,0.769,6,-5.043,1,0.123,0.0293,0.0101,0.104,0.733,97.985,233902
+pop,ElectroPop 2020,Selena Gomez,Wolves,82,0.724,0.804,11,-4.614,0,0.0448,0.124,0.0,0.204,0.306,124.987,197993
+pop,10er Playlist,J. Cole,No Role Modelz,82,0.696,0.521,10,-8.465,0,0.332,0.302,0.0,0.0565,0.458,100.0,292987
+pop,Dance Pop,Tiësto,Ritual,82,0.647,0.726,3,-4.389,0,0.0552,0.157,0.0,0.0844,0.767,114.996,198996
+pop,indie poptimism🕺🏻,Panic! At The Disco,Into the Unknown - Panic! At The Disco Version,82,0.456,0.828,1,-6.225,1,0.077,0.0244,0.0,0.21,0.313,116.719,189132
+pop,Electropop,Frank Ocean,Chanel,82,0.776,0.503,0,-5.732,0,0.237,0.874,0.0,0.112,0.473,110.134,210285
+pop,Electropop - Pop,Dua Lipa,IDGAF,82,0.836,0.544,7,-5.975,1,0.0943,0.0403,0.0,0.0824,0.51,97.028,217947
+pop,indie poptimism🕺🏻,Shawn Mendes,There's Nothing Holdin' Me Back,82,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,199440
+pop,ElectroPop 2020,Shawn Mendes,There's Nothing Holdin' Me Back,82,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,199440
+pop,ElectroPop 2020,Charlie Puth,Attention,82,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,208787
+pop,The Sound of Indie Poptimism,WALK THE MOON,Shut Up and Dance,82,0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038,199080
+pop,Todo Éxitos,J Balvin,Morado,82,0.881,0.696,11,-3.838,0,0.0797,0.137,4.13e-05,0.0927,0.781,97.002,200667
+pop,Deep-deep Bubble Pop,Jason Mraz,I'm Yours,82,0.686,0.457,11,-8.322,1,0.0468,0.595,0.0,0.105,0.718,150.953,242187
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,Mark Ronson,Uptown Funk,82,0.856,0.609,0,-7.223,1,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,269667
+pop,ELETRIC POP & DANCE,Zedd,Good Thing (with Kehlani),82,0.693,0.564,1,-3.857,0,0.0378,0.399,0.0,0.0409,0.574,185.913,210901
+pop,post teen pop,Train,"Hey, Soul Sister",82,0.673,0.886,1,-4.44,0,0.0431,0.185,0.0,0.0826,0.795,97.012,216773
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Diplo,Heartless (feat. Morgan Wallen),82,0.764,0.555,11,-6.414,1,0.0604,0.275,0.0,0.0824,0.255,111.004,169227
+pop,Post Teen Pop,Dua Lipa,IDGAF,82,0.836,0.544,7,-5.975,1,0.0943,0.0403,0.0,0.0824,0.51,97.028,217947
+pop,Post Teen Pop,Shawn Mendes,There's Nothing Holdin' Me Back,82,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,199440
+pop,Post Teen Pop,Charlie Puth,Attention,82,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,208787
+pop,Post Teen Pop,Bruno Mars,That's What I Like,82,0.853,0.56,1,-4.961,1,0.0406,0.013,0.0,0.0944,0.86,134.066,206693
+pop,Post pop teen,WALK THE MOON,Shut Up and Dance,82,0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038,199080
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Zedd,Good Thing (with Kehlani),82,0.693,0.564,1,-3.857,0,0.0378,0.399,0.0,0.0409,0.574,185.913,210901
+pop,a taste of the mainstream,benny blanco,Graduation (with Juice WRLD),82,0.731,0.65,0,-5.286,1,0.271,0.107,0.0,0.124,0.605,154.968,177847
+pop,Post pop teen,Mark Ronson,Uptown Funk,82,0.856,0.609,0,-7.223,1,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,269667
+pop,Post pop teen,Selena Gomez,Wolves,82,0.724,0.804,11,-4.614,0,0.0448,0.124,0.0,0.204,0.306,124.987,197993
+pop,Electropop Hits  2017-2020,Bruno Mars,That's What I Like,82,0.853,0.56,1,-4.961,1,0.0406,0.013,0.0,0.0944,0.86,134.066,206693
+pop,Dr. Q's Prescription Playlist💊,AC/DC,Thunderstruck,81,0.501,0.889,4,-5.175,1,0.0364,0.000147,0.0114,0.217,0.257,133.519,292880
+pop,Someone You Loved Lewis Capaldi (Pop Music Mix),A Boogie Wit da Hoodie,Look Back at It,81,0.791,0.587,3,-5.075,0,0.0413,0.407,0.0,0.148,0.536,96.057,179449
+pop,Mix ElectroPop//ElectroHouse// DeepHouse 2020,Maroon 5,Girls Like You (feat. Cardi B),81,0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,235545
+pop,Dr. Q's Prescription Playlist💊,Twenty One Pilots,Ride,81,0.645,0.713,6,-5.355,1,0.0393,0.00835,0.0,0.113,0.566,74.989,214507
+pop,Dr. Q's Prescription Playlist💊,Imagine Dragons,Whatever It Takes,81,0.672,0.655,10,-5.021,0,0.0311,0.0362,0.0,0.117,0.556,134.945,201240
+pop,Electropop,Lil Skies,I,81,0.649,0.453,6,-7.28,1,0.085,0.627,0.0,0.116,0.431,99.183,181891
+pop,POPTIMISM,Lauv,Feelings,81,0.694,0.466,9,-6.758,1,0.0384,0.0934,0.0,0.098,0.246,103.018,189613
+pop,Dance Pop,Martin Garrix,Scared to Be Lonely,81,0.584,0.54,1,-7.786,0,0.0576,0.0895,0.0,0.261,0.195,137.972,220883
+pop,Post pop teen,Marshmello,Silence,81,0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,180823
+pop,K-Party Dance Mix,Mamamoo,HIP,81,0.782,0.731,3,-4.581,0,0.143,0.0376,3.15e-05,0.0956,0.824,138.032,195307
+pop,Dr. Q's Prescription Playlist💊,R.E.M.,Losing My Religion,81,0.666,0.855,9,-5.051,0,0.0295,0.179,1.2e-06,0.0987,0.803,125.639,268427
+pop,"post-teen alternative, indie, pop (large variety)",Nea,Some Say,81,0.779,0.342,3,-6.316,0,0.0404,0.701,2.56e-06,0.132,0.482,104.993,175602
+pop,Electropop 80/90s,Eurythmics,Sweet Dreams (Are Made of This) - Remastered,81,0.692,0.711,0,-7.498,0,0.0317,0.227,0.0,0.12,0.875,125.135,216933
+pop,Electropop,Hippie Sabotage,Devil Eyes,81,0.391,0.396,1,-8.621,0,0.189,0.702,0.405,0.315,0.199,99.112,131272
+pop,POPTIMISM,Kygo,Happy Now,81,0.693,0.575,9,-6.998,1,0.0801,0.374,0.0,0.252,0.492,117.999,211362
+pop,Post pop teen,Justin Bieber,Sorry,81,0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945,200787
+pop,"post-teen alternative, indie, pop (large variety)",Ava Max,Torn,81,0.664,0.831,2,-4.472,0,0.0435,0.111,1.42e-06,0.0596,0.696,125.058,198006
+pop,Dance Pop,Justin Bieber,Sorry,81,0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945,200787
+pop,Cardio,Kygo,Happy Now,81,0.693,0.575,9,-6.998,1,0.0801,0.374,0.0,0.252,0.492,117.999,211362
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,Marshmello,Silence,81,0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,180823
+pop,Dance Pop,DJ Snake,Let Me Love You,81,0.649,0.716,8,-5.371,1,0.0349,0.0863,2.63e-05,0.135,0.163,99.988,205947
+pop,Dance Pop Hits,Avicii,Without You (feat. Sandro Cavazza),81,0.662,0.858,2,-4.844,1,0.0428,0.00163,0.0,0.0456,0.295,133.993,181673
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,ZAYN,Dusk Till Dawn - Radio Edit,81,0.258,0.437,11,-6.593,0,0.039,0.101,1.27e-06,0.106,0.0967,180.043,239000
+pop,🤩🤪Post Teen Pop🤪🤩,Bazzi,Mine,81,0.71,0.789,4,-3.874,1,0.0722,0.0161,2.77e-06,0.451,0.717,142.929,131064
+pop,Someone You Loved Lewis Capaldi (Pop Music Mix),21 Savage,a lot,81,0.837,0.636,1,-7.643,1,0.086,0.0395,0.00125,0.342,0.274,145.972,288624
+pop,10er Playlist,Justin Bieber,Sorry,81,0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945,200787
+pop,POPTIMISM,Miley Cyrus,Slide Away,81,0.53,0.538,5,-6.672,1,0.0335,0.17,2.83e-06,0.248,0.288,148.051,233654
+pop,ELECTROPOP🐹,Avicii,Without You (feat. Sandro Cavazza),81,0.662,0.858,2,-4.844,1,0.0428,0.00163,0.0,0.0456,0.295,133.993,181673
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,Surfaces,Sunday Best,81,0.878,0.525,5,-6.832,1,0.0578,0.183,0.0,0.0714,0.694,112.022,158571
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,The Chainsmokers,Don't Let Me Down,81,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,208373
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Lauv,Feelings,81,0.694,0.466,9,-6.758,1,0.0384,0.0934,0.0,0.098,0.246,103.018,189613
+pop,Electropop 2019,Silk City,Electricity (with Dua Lipa),81,0.588,0.67,0,-6.439,1,0.0473,0.0104,3.33e-06,0.338,0.505,118.159,238173
+pop,Dance Room,Dimitri Vegas & Like Mike,Instagram,81,0.765,0.906,8,-2.097,0,0.0965,0.125,0.0,0.423,0.95,96.071,184558
+pop,indie poptimism,Rex Orange County,Best Friend,81,0.575,0.714,6,-5.247,1,0.0596,0.395,0.0,0.115,0.32,144.982,262231
+pop,random playlist that can't decide its genre so go ahead jam along with these catchy tunes,The Chainsmokers,Don't Let Me Down,81,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,208373
+pop,The Sound of Post-Teen Pop,Miley Cyrus,Slide Away,81,0.53,0.538,5,-6.672,1,0.0335,0.17,2.83e-06,0.248,0.288,148.051,233654
+pop,Electropop 2019,Kygo,Happy Now,81,0.693,0.575,9,-6.998,1,0.0801,0.374,0.0,0.252,0.492,117.999,211362
+pop,Todo Éxitos,Aitana,+,81,0.561,0.666,8,-4.243,1,0.0322,0.106,0.0,0.123,0.675,160.019,219367
+pop,ELECTROPOP,Twenty One Pilots,Heathens,81,0.732,0.396,4,-9.348,0,0.0286,0.0841,3.58e-05,0.105,0.548,90.024,195920
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Silk City,Electricity (with Dua Lipa),81,0.588,0.67,0,-6.439,1,0.0473,0.0104,3.33e-06,0.338,0.505,118.159,238173
+pop,ELECTROPOP🐹,Coldplay,Fix You,81,0.209,0.418,3,-8.74,1,0.0338,0.163,0.00195,0.113,0.123,138.265,295533
+pop,ELECTROPOP,Twenty One Pilots,Ride,81,0.645,0.713,6,-5.355,1,0.0393,0.00835,0.0,0.113,0.566,74.989,214507
+pop,Indie Poptimism,The Neighbourhood,Sweater Weather,81,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,240400
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Kygo,Happy Now,81,0.693,0.575,9,-6.998,1,0.0801,0.374,0.0,0.252,0.492,117.999,211362
+pop,ElectroPop 2020,DJ Snake,Let Me Love You,81,0.649,0.716,8,-5.371,1,0.0349,0.0863,2.63e-05,0.135,0.163,99.988,205947
+pop,random playlist that can't decide its genre so go ahead jam along with these catchy tunes,Twenty One Pilots,Ride,81,0.645,0.713,6,-5.355,1,0.0393,0.00835,0.0,0.113,0.566,74.989,214507
+pop,random playlist that can't decide its genre so go ahead jam along with these catchy tunes,Twenty One Pilots,Heathens,81,0.732,0.396,4,-9.348,0,0.0286,0.0841,3.58e-05,0.105,0.548,90.024,195920
+pop,Electropop 2019,Bazzi,Beautiful (feat. Camila Cabello),81,0.638,0.717,2,-4.722,1,0.0337,0.346,0.0,0.105,0.249,100.027,180000
+pop,Electropop Hits  2017-2020,The Chainsmokers,Don't Let Me Down,81,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,208373
+pop,ElectroPop 2020,Hailee Steinfeld,"Let Me Go (with Alesso, Florida Georgia Line & watt)",81,0.663,0.708,8,-4.154,1,0.0473,0.0337,0.0,0.0841,0.742,103.073,174800
+pop,BALLARE - رقص,Eurythmics,Sweet Dreams (Are Made of This) - Remastered,81,0.692,0.711,0,-7.498,0,0.0317,0.227,0.0,0.12,0.875,125.135,216933
+pop,Dance Pop,Jonas Blue,What I Like About You (feat. Theresa Rex),81,0.46,0.8,1,-3.584,1,0.05,0.289,6.16e-06,0.121,0.553,102.46,220396
+pop,The Sound of Post-Teen Pop,ZAYN,Dusk Till Dawn - Radio Edit,81,0.258,0.437,11,-6.593,0,0.039,0.101,1.27e-06,0.106,0.0967,180.043,239000
+pop,Todo Éxitos,Jhay Cortez,Easy - Remix,81,0.886,0.752,1,-3.819,0,0.0949,0.191,2.76e-06,0.146,0.435,94.066,220147
+pop,The Sound of Post-Teen Pop,Hailee Steinfeld,"Let Me Go (with Alesso, Florida Georgia Line & watt)",81,0.663,0.708,8,-4.154,1,0.0473,0.0337,0.0,0.0841,0.742,103.073,174800
+pop,ELECTROPOP🐹,Future,Mask Off,81,0.833,0.434,2,-8.795,1,0.431,0.0102,0.0219,0.165,0.281,150.062,204600
+pop,The Sound of Post-Teen Pop,5 Seconds of Summer,Easier,81,0.505,0.428,5,-5.604,1,0.221,0.489,0.0,0.0977,0.618,175.813,157493
+pop,Dance Pop,Silk City,Electricity (with Dua Lipa),81,0.588,0.67,0,-6.439,1,0.0473,0.0104,3.33e-06,0.338,0.505,118.159,238173
+pop,Electropop 2019,Marshmello,Silence,81,0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,180823
+pop,Electropop Hits  2017-2020,Martin Garrix,Scared to Be Lonely,81,0.584,0.54,1,-7.786,0,0.0576,0.0895,0.0,0.261,0.195,137.972,220883
+pop,ELECTROPOP🐹,Coldplay,Yellow,81,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.00013,0.234,0.285,173.365,266773
+pop,Electropop 2019,Khalid,Better,81,0.596,0.552,0,-10.278,0,0.097,0.0765,0.334,0.104,0.112,97.949,229320
+pop,Dance Pop,Ellie Goulding,Sixteen,81,0.669,0.801,8,-5.445,1,0.136,0.268,0.0,0.0594,0.541,109.919,201072
+pop,Post pop teen,Maroon 5,Girls Like You (feat. Cardi B),80,0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,235545
+pop,The Sound of Post-Teen Pop,Demi Lovato,Sorry Not Sorry,80,0.705,0.64,11,-6.928,0,0.225,0.0237,0.0,0.262,0.887,144.077,203760
+pop,indie poptimism🕺🏻,Selena Gomez,Back To You - From 13 Reasons Why – Season 2 Soundtrack,80,0.601,0.724,6,-4.856,1,0.0486,0.0945,1.68e-06,0.12,0.508,102.061,207905
+pop,The Sound of Post-Teen Pop,DNCE,Cake By The Ocean,80,0.774,0.753,4,-5.445,0,0.0517,0.153,0.0,0.0371,0.896,119.002,219147
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Major Lazer,Trigger,80,0.57,0.585,8,-7.041,1,0.251,0.128,9.7e-05,0.111,0.378,97.285,171987
+pop,indie poptimism,Rex Orange County,Loving Is Easy,80,0.756,0.609,3,-7.927,1,0.0544,0.217,0.00474,0.096,0.537,117.023,155720
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Diplo,Lonely (with Jonas Brothers),80,0.738,0.717,1,-5.121,1,0.0573,0.062,0.0,0.205,0.5,98.047,139813
+pop,"post-teen alternative, indie, pop (large variety)",Ava Max,Salt,80,0.693,0.835,6,-3.242,1,0.0623,0.131,0.0,0.073,0.743,128.052,180283
+pop,indie poptimism,Billie Eilish,my boy,80,0.692,0.394,11,-8.745,0,0.207,0.472,0.000191,0.117,0.324,89.936,170852
+pop,indie poptimism🕺🏻,Bebe Rexha,I'm a Mess,80,0.63,0.694,11,-6.257,0,0.0253,0.00281,0.0,0.0719,0.216,97.005,195519
+pop,indie poptimism🕺🏻,Clean Bandit,Solo (feat. Demi Lovato),80,0.737,0.636,11,-4.546,0,0.0437,0.0441,6.66e-05,0.35,0.565,105.005,222653
+pop,The Sound of Post-Teen Pop,Kesha,TiK ToK,80,0.755,0.837,2,-2.718,0,0.142,0.0991,0.0,0.289,0.714,120.028,199693
+pop,The Sound of Post-Teen Pop,One Direction,Story of My Life,80,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,245493
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,5 Seconds of Summer,Teeth,80,0.755,0.448,3,-2.993,0,0.0405,0.0508,3.87e-06,0.11,0.431,139.028,204887
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Summer Walker,Playing Games (with Bryson Tiller) - Extended Version,80,0.726,0.408,11,-6.606,0,0.0614,0.603,0.0,0.225,0.459,115.918,143227
+pop,Dance Pop,Clean Bandit,Solo (feat. Demi Lovato),80,0.737,0.636,11,-4.546,0,0.0437,0.0441,6.66e-05,0.35,0.565,105.005,222653
+pop,The Sound of Post-Teen Pop,Bebe Rexha,I'm a Mess,80,0.63,0.694,11,-6.257,0,0.0253,0.00281,0.0,0.0719,0.216,97.005,195519
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Dermot Kennedy,Outnumbered,80,0.614,0.684,0,-5.79,1,0.157,0.247,0.0,0.0976,0.258,156.85,245700
+pop,Todo Éxitos,DJ Snake,"Loco Contigo (with J. Balvin & Ozuna feat. Nicky Jam, Natti Natasha, Darell & Sech) - REMIX",80,0.789,0.694,6,-5.781,0,0.0729,0.0982,0.0,0.0962,0.549,96.035,341875
+pop,Dance Room,R3HAB,All Around The World (La La La),80,0.733,0.859,9,-5.03,0,0.033,0.479,0.0645,0.105,0.52,124.948,147840
+pop,post teen pop,P!nk,Just Give Me a Reason (feat. Nate Ruess),80,0.778,0.547,2,-7.273,1,0.0489,0.346,0.000302,0.132,0.441,95.002,242733
+pop,Electropop - Pop,The Weeknd,I Feel It Coming,80,0.773,0.819,0,-5.946,0,0.118,0.426,0.0,0.0679,0.585,92.99,269187
+pop,Electropop - Pop,Maroon 5,Sugar,80,0.748,0.788,1,-7.055,1,0.0334,0.0591,0.0,0.0863,0.884,120.076,235493
+pop,post teen pop,Shakira,Hips Don't Lie (feat. Wyclef Jean),80,0.778,0.824,10,-5.892,0,0.0712,0.284,0.0,0.405,0.756,100.024,218093
+pop,ElectroPop 2020,Ed Sheeran,Galway Girl,80,0.624,0.876,9,-3.374,1,0.1,0.0735,0.0,0.327,0.781,99.943,170827
+pop,BALLARE - رقص,The Weeknd,I Feel It Coming,80,0.773,0.819,0,-5.946,0,0.118,0.426,0.0,0.0679,0.585,92.99,269187
+pop,Todo Éxitos,Sebastian Yatra,Runaway,80,0.756,0.851,2,-3.33,1,0.0674,0.0336,0.0,0.126,0.934,75.014,200693
+pop,ElectroPop 2020,Axwell /\ Ingrosso,More Than You Know,80,0.646,0.741,5,-4.973,0,0.034,0.0275,0.0,0.312,0.571,123.077,203000
+pop,Post Teen Pop,Why Don't We,Big Plans,80,0.693,0.604,11,-5.279,1,0.0427,0.0668,0.0,0.114,0.651,75.014,179930
+pop,ElectroPop 2020,DNCE,Cake By The Ocean,80,0.774,0.753,4,-5.445,0,0.0517,0.153,0.0,0.0371,0.896,119.002,219147
+pop,post teen pop,OneRepublic,Counting Stars,80,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,257267
+pop,ELECTROPOP,Martin Garrix,In the Name of Love,80,0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,195707
+pop,post teen pop,Maroon 5,Sugar,80,0.748,0.788,1,-7.055,1,0.0334,0.0591,0.0,0.0863,0.884,120.076,235493
+pop,Electropop 2019,Zedd,Happy Now,80,0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335,207030
+pop,Electropop 2019,Clean Bandit,Solo (feat. Demi Lovato),80,0.737,0.636,11,-4.546,0,0.0437,0.0441,6.66e-05,0.35,0.565,105.005,222653
+pop,post teen pop,Ariana Grande,God is a woman,80,0.602,0.658,1,-5.934,1,0.0558,0.0233,6e-05,0.237,0.268,145.031,197547
+pop,Post-teen pop,Bruno Mars,Just the Way You Are,80,0.637,0.843,5,-5.413,1,0.0432,0.0151,0.0,0.0876,0.434,109.012,220733
+pop,Post-teen pop,The Weeknd,Can't Feel My Face,80,0.705,0.769,9,-5.526,0,0.0426,0.112,0.0,0.105,0.59,107.939,213520
+pop,post teen pop,Maroon 5,She Will Be Loved - Radio Mix,80,0.651,0.663,0,-5.569,0,0.0281,0.228,0.0,0.0994,0.465,102.0,259453
+pop,ELECTROPOP🐹,Maroon 5,She Will Be Loved - Radio Mix,80,0.651,0.663,0,-5.569,0,0.0281,0.228,0.0,0.0994,0.465,102.0,259453
+pop,Post pop teen,Plain White T's,Hey There Delilah,80,0.657,0.291,2,-10.572,1,0.0293,0.872,0.0,0.114,0.298,103.973,232533
+pop,ELECTROPOP🐹,Avicii,The Nights,80,0.527,0.835,6,-5.298,1,0.0433,0.0166,0.0,0.249,0.654,125.983,176658
+pop,POPTIMISM,Diplo,Lonely (with Jonas Brothers),80,0.738,0.717,1,-5.121,1,0.0573,0.062,0.0,0.205,0.5,98.047,139813
+pop,Dance Pop Hits,Avicii,Heaven,80,0.592,0.873,9,-5.65,1,0.0275,0.0715,0.00982,0.142,0.516,122.011,277262
+pop,Post pop teen,Rihanna,Umbrella,80,0.583,0.829,1,-4.603,1,0.134,0.00864,0.0,0.0426,0.575,174.028,275987
+pop,Post pop teen,Hozier,Take Me To Church,80,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,241688
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,John Mayer,New Light,80,0.828,0.689,7,-7.878,1,0.0326,0.325,0.0384,0.0808,0.853,123.931,216015
+pop,10er Playlist,Wiz Khalifa,See You Again (feat. Charlie Puth),80,0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,229526
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,Kesha,TiK ToK,80,0.755,0.837,2,-2.718,0,0.142,0.0991,0.0,0.289,0.714,120.028,199693
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,One Direction,Story of My Life,80,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,245493
+pop,Pop Inglés (2020 - 2010s)💙 Música En Inglés 2010s,P!nk,Just Give Me a Reason (feat. Nate Ruess),80,0.778,0.547,2,-7.273,1,0.0489,0.346,0.000302,0.132,0.441,95.002,242733
+pop,10er Playlist,The Weeknd,Can't Feel My Face,80,0.705,0.769,9,-5.526,0,0.0426,0.112,0.0,0.105,0.59,107.939,213520
+pop,Dance Pop Hits,Avicii,The Nights,80,0.527,0.835,6,-5.298,1,0.0433,0.0166,0.0,0.249,0.654,125.983,176658
+pop,Ultimate Indie Presents... Best Indie Tracks of the 2010s,Rex Orange County,Loving Is Easy,80,0.756,0.609,3,-7.927,1,0.0544,0.217,0.00474,0.096,0.537,117.023,155720
+pop,Dr. Q's Prescription Playlist💊,Creedence Clearwater Revival,Fortunate Son,80,0.64,0.663,0,-7.516,1,0.0374,0.201,0.00806,0.152,0.663,132.77,140773
+pop,Pop Warmup 130 BPM,Martin Garrix,In the Name of Love,80,0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,195707
+pop,Dance Pop,Zedd,Happy Now,80,0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335,207030
+pop,Dance Pop,OneRepublic,Counting Stars,80,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,257267
+pop,Dr. Q's Prescription Playlist💊,Coolio,Gangsta's Paradise,80,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.387,79.974,240693
+pop,Pop - Pop UK - 2019 - Canadian Pop - 2019 - Pop,Avicii,Heaven,80,0.592,0.873,9,-5.65,1,0.0275,0.0715,0.00982,0.142,0.516,122.011,277262

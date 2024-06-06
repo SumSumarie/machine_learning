@@ -1,0 +1,10 @@
+genre,playlist_name,track_artist,track_name,track_popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+rock,Permanent wave,Linkin Park,In the End,83,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,216880
+rock,Permanent wave,TOTO,Africa,83,0.671,0.373,9,-18.064,1,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893
+rock,Permanent wave,Bon Jovi,Livin' On A Prayer,83,0.532,0.887,0,-3.757,1,0.0335,0.0778,0.000214,0.294,0.795,122.511,249293
+rock,Permanent wave,Guns N' Roses,Sweet Child O' Mine,82,0.454,0.91,6,-7.766,1,0.0446,0.0852,0.0988,0.116,0.63,125.116,354520
+rock,Permanent wave,Eagles,Hotel California - 2013 Remaster,82,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,391376
+rock,Permanent wave,Coldplay,Yellow,81,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.00013,0.234,0.285,173.365,266773
+rock,Permanent wave,Red Hot Chili Peppers,Californication,81,0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483,329733
+rock,Permanent wave,The Cranberries,Zombie,80,0.307,0.635,7,-8.957,1,0.0339,0.0155,0.00486,0.366,0.305,166.978,306427
+rock,Permanent wave,Red Hot Chili Peppers,Can't Stop,80,0.618,0.938,9,-3.442,1,0.0456,0.0179,0.0,0.167,0.875,91.455,269000
